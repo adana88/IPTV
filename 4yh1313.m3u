@@ -6,6 +6,7 @@
 # (●) Created by @yh13
  
 #EXTM3U
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz, https://github.com/apistech/project/raw/refs/heads/main/epgs/light-epg.xml.gz" billed-msg="⛔.:© 2026 Ayhie:. PLAYLIST INI TIDAK DIPERJUALBELIKAN⛔, Channel yang done bukan tanggung jawab kami" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 ===================================================== PREMIUM MOVIE =======================================================
 
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/OLCR6VY.png",FLIK
