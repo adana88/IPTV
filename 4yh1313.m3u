@@ -967,10 +967,13 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 #EXTINF:-1 tvg-id="teennick.us" tvg-logo="https://i.imgur.com/k9yg0xA.png" group-title="DUNIA ANAK",TEENNICK
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Tenic.m3u8
 
-#EXTINF:-1 group-title="DUNIA ANAK" tvg-logo="https://i.imgur.com/2IZ3ddX.png",HOREE!
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=221355faa3b84840af0be14119b85252:d5eae930e39f8221de4e4651be5af353
-https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest_wuseetv.mpd
+#EXTINF:-1 tvg-id="Horee!" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="DUNIA ANAK" tvg-logo="https://i.imgur.com/2IZ3ddX.png", HOREE! 
+http://opplextv.cyou:8080/nasir6160/nasir/350964
+
+#EXTINF:-1 tvg-id="Hip Hip Horee!" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="DUNIA ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Hip_Hip_Horee.png", HIP HIP HOREE!
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://vidx.semar.my.id/biasa2.mpd?id=7052&type=dash
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AVmfZXQ.png" group-title="DUNIA ANAK",MENTARI TV
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts
