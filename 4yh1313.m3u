@@ -1663,12 +1663,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 #KODIPROP:inputstream.adaptive.license_key=97ff88352c574038b70e09642a90feec:66c062a920329c52fb446fac728c90d7
 https://indihuy.streamized.net/atm/mpd-vo/pramborstv/manifest.mpd
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQob6Q70WXIDeuY9KwpQdcXK72H5ITVwErQdQ&s", MUSICA
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#https://ratu77.adptv.workers.dev/index.mpd?id=7619&type=dash
-
 #EXTINF:-1 tvg-id="MusikIndonesia.id" tvg-logo="https://i.imgur.com/2GieoPw.png" group-title="MUSIK", MUSIK INDONESIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
