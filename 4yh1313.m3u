@@ -1713,7 +1713,9 @@ https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 https://mic.siar.us/mic/live/mic.m3u8
 https://mic.siar.us/mic/live/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="StaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://stream.staratv.id/" group-title="MUSIK",STARA TV
+#EXTVLCOPT:http-referrer=https://stream.staratv.id/
+https://stream.staratv.id/hls/0/stream.m3u8
 
 
 
