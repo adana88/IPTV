@@ -1711,6 +1711,11 @@ https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
 https://jmp2.uk/stvp-USBD3000145P
 https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 
+#EXTVLCOPT:http-referer=https://mic-indo.com/live/
+#EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://i.imgur.com/4tlWqQb.png" group-title="MUSIK", MUSIC INFORMATION CHANNEL
+https://mic.siar.us/mic/live/mic.m3u8
+https://mic.siar.us/mic/live/playlist.m3u8
+
 
 
 
