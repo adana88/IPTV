@@ -971,9 +971,12 @@ http://opplextv.cyou:8080/nasir6160/nasir/350964
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://vidx.semar.my.id/biasa2.mpd?id=7052&type=dash
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AVmfZXQ.png" group-title="DUNIA ANAK",MENTARI TV
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts
+#EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/AVmfZXQ.png" group-title="DUNIA ANAK", MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 group-title="DUNIA ANAK" tvg-logo="https://i.imgur.com/FTOXy2j.png", PBS KIDS  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -1668,6 +1671,12 @@ https://indihuy.streamized.net/atm/mpd-vo/pramborstv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dzXrcsa.png" group-title="MUSIK", MUSICA
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://ratu77.adptv.workers.dev/index.mpd?id=7619&type=dash
 
 #EXTINF:-1 tvg-name="MTV Live" tvg-id="MTVLIVE.us2" tvg-logo="https://i.imgur.com/QRGTj8s.png" group-title="MUSIK" radio="false", MTV LIVE
 http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
