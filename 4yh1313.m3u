@@ -1,12 +1,12 @@
 #EXTM3U
-# (●) Last Update: 2026-05-19 14:15 GMT+7
+# (●) Last Update: 2026-05-25 09:51 GMT+7
 # (●) Kami tidak bertanggung jawab apabila ada channel yang bermasalah
-# (●) Playlist ini bersifat gratis tidak dipungut biaya, playlist diambil dari berbagai sumber
+# (●) Playlist ini bersifat gratis tidak dipungut biaya, playlist diambil dari berbagai sumber di Internet
 # (●) Dilarang keras memperjualbelikan playlist ini
 # (●) Created by @yh13
  
 #EXTM3U
-#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz, https://github.com/apistech/project/raw/refs/heads/main/epgs/light-epg.xml.gz" billed-msg="Created By : AYHIE DIGITAL DATA ENTERTAINMENT ⛔DILARANG KERAS MEMPERJUALBELIKAN PLAYLIST INI⛔, Channel yang bermasalah bukan tanggungjawab kami" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz, https://github.com/apistech/project/raw/refs/heads/main/epgs/light-epg.xml.gz" billed-msg="Created By : DIGITAL DATA ENTERTAINMENT ⛔DILARANG KERAS MEMPERJUALBELIKAN PLAYLIST INI⛔, Channel yang bermasalah bukan tanggungjawab kami" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 ===================================================== PREMIUM MOVIE =======================================================
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="PREMIUM MOVIE", BIOSKOP INDONESIA
