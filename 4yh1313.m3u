@@ -1681,6 +1681,9 @@ https://ratu77.adptv.workers.dev/index.mpd?id=7619&type=dash
 #EXTINF:-1 tvg-name="MTV Live" tvg-id="MTVLIVE.us2" tvg-logo="https://i.imgur.com/QRGTj8s.png" group-title="MUSIK" radio="false", MTV LIVE
 http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
 
+#EXTINF:-1 tvg-chno="97" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="MUSIK", MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+
 #EXTINF:-1 tvg-id="64c37e710e086a0009e824ab-gb" tvg-id="64c37e710e086a0009e824ab-gb" tvg-logo="https://i.imgur.com/2fNWFZb.png" group-title="MUSIK", THAT'S 70s
 https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
 
