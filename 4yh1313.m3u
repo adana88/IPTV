@@ -516,7 +516,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b3840
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ft7NFSN.png" group-title="NASIONAL CHANNEL",DAAI TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 
-#EXTINF:-1 tvg-id="94" tvg-logo="https://imgur.com/WMiuPsu" group-title="NASIONAL CHANNEL", ELSHINTA TV
+#EXTINF:-1 tvg-id="94" tvg-logo="https://i.imgur.com/WMiuPsu.png" group-title="NASIONAL CHANNEL", ELSHINTA TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
@@ -1102,7 +1102,7 @@ https://flv.intechmedia.net/live/ch23.m3u8|User-Agent=YouTV/1.7.15-prod.release+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dqg7rme.png" group-title="RELIGI | ISLAM CHANNEL",MUADZ TV
 https://flv.intechmedia.net/live/ch5.m3u8|User-Agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sR9Ud0s" group-title="RELIGI | ISLAM CHANNEL",MQH TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sR9Ud0s.png" group-title="RELIGI | ISLAM CHANNEL",MQH TV
 https://flv.intechmedia.net/live/ch34.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UK0w3M6.png" group-title="RELIGI | ISLAM CHANNEL",NAAJIYA TV
