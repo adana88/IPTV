@@ -144,12 +144,12 @@ https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnplus/out/v1/254ff351a5d543a88abf92189bff886e/index.mpd
 https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnxhd/out/v1/405c7c835d534bc8afcf9cd5daa7f77d/index.mpd
- 
+
+#EXTINF:-1 tvg-id="MNX.in@SD" group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/mfQgsIH.png",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" tvg-logo="https://i.imgur.com/mfQgsIH.png" group-title="PREMIUM MOVIE", MNX HD
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
- 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ufrArj.png" group-title="PREMIUM MOVIE",MOVIE MUSIC 
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/3291200/manifest.m3u8
  
