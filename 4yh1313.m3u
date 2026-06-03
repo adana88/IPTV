@@ -1569,6 +1569,10 @@ https://ast.livecricketsl.live/proxy/sg.php/http://linearjitp-playback.astro.com
 http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Boo
 https://mimipipi22.github.io/logo/offline.m3u8
 
+EXTINF:-1 tvg-id="122.astro" tvg-logo="https://i.imgur.com/WVjuPJ8.png" group-title="MALAYSIA CHANNEL",TVS+
+https://stream2.smg.my/live/tvsplus_720p2628kbs/index.m3u8
+
+
 <============================================================= OLAHRAGA ===================================================================>
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
