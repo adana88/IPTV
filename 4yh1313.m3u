@@ -7,6 +7,13 @@
  
 #EXTM3U
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz, https://github.com/apistech/project/raw/refs/heads/main/epgs/light-epg.xml.gz" billed-msg="Created By : DIGITAL DATA ENTERTAINMENT ⛔DILARANG KERAS MEMPERJUALBELIKAN PLAYLIST INI⛔, Channel yang bermasalah bukan tanggungjawab kami" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
+https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://warningfm.github.io/x1/epg/guide.xml.gz 
+https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml
+https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml
+https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml
+https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml
+https://tinyurl.com/DrewLive002-epg" refresh="24"
+
 ===================================================== PREMIUM MOVIE =======================================================
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="PREMIUM MOVIE", BIOSKOP INDONESIA
