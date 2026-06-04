@@ -1434,7 +1434,7 @@ https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
 #EXTINF:-1  group-title="MALAYSIA CHANNEL" tvg-logo="https://i.imgur.com/9BhKYTv.png",TV 3 
-http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+https://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1444,7 +1444,7 @@ http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkcALTQ.png" group-title="MALAYSIA CHANNEL",TV 9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+https://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
