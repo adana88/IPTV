@@ -159,8 +159,8 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XmSt5AT.png" group-title="PREMIUM MOVIE", MOVIESPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uRVuSk5.png" group-title="PREMIUM MOVIE",MYTIME MOVIE 
-https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uRVuSk5.png" group-title="PREMIUM MOVIE",MYTIME MOVIE NETWORK
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqhEDnU.png" group-title="PREMIUM MOVIE",OUTERSPHERE 
 https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
