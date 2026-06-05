@@ -1026,6 +1026,10 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="madanitv.id" tvg-name="" tvg-logo="https://i.imgur.com/Fv2RyWH.png" group-title="RELIGI | ISLAM CHANNEL", MADANI TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4zGdRn.png" group-title="RELIGI | ISLAM CHANNEL",MUSLIM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
