@@ -1798,8 +1798,8 @@ https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevo
 #EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="PIALA DUNIA", TVRI SPORTS
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS.id" tvg-name="DSPORTS" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" tvg-country="IN" tvg-url="" group-title="PIALA DUNIA",D SPORTS
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1 tvg-id="DSPORTS.id" tvg-name="DSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-country="IN" tvg-url="" group-title="PIALA DUNIA",D SPORTS
+http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/276727
 
 
 
