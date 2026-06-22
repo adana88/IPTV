@@ -1697,7 +1697,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/Champio
 #EXTINF:-1 tvg-id="Max.Sports.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="OLAHRAGA", MAX SPORTS
 #https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
-#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="PIALA DUNIA", TVRI SPORTS
+#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="OLAHRAGA", TVRI SPORTS
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="OLAHRAGA", V+ SPORTS
