@@ -16,7 +16,12 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://war
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cloudserver.home-tv.my.id/usee/key.do?id=flik
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/OLCR6VY.png",FLIK
+#http://watchlive.my.id/flik/movie/1015
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165095
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
