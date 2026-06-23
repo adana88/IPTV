@@ -1342,6 +1342,9 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RiauTV.id@SD" tvg-logo="https://i.imgur.com/1g8FtJi.png" group-title="LOKAL INDONESIA CHANNEL",RIAU TV
 http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="PONTV.id@SD" tvg-logo="https://i.imgur.com/P5erWzm.png" group-title="LOKAL INDONESIA CHANNEL",PONTIANAK TV
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 
@@ -1369,6 +1372,9 @@ https://e.siar.us/live/sampit-tv.m3u8
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SMTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="LOKAL INDONESIA CHANNEL",SMTV
 http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 
