@@ -1357,7 +1357,7 @@ https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://stream.carubantv.id
 https://stream.carubantv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JDSLmDv6HTJVw8AIGfBi7P7TS0YpEhhNxAyDjQB5RCekpd8csnHtIqeucV2BtpK9LVZ_pK4MIA=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL INDONESIA CHANNEL", DAVIKA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/60/Logo_Davika_TV.png/500px-Logo_Davika_TV.png" group-title="LOKAL INDONESIA CHANNEL", DAVIKA TV
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://5bf7b725107e5.streamlock.net/davika/davika/chunklist_w176875597.m3u8
 
