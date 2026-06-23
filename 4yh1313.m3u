@@ -1279,14 +1279,13 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DmxF8bz.png" group-title="LOKAL INDONESIA CHANNEL", DHAMMA TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
- 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+
 #EXTINF:-1 group-title="LOKAL INDONESIA CHANNEL" tvg-id="KSTV" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/DZq0V7V.png",KSTV
-https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://kstv.co.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zN11inY.png" group-title="LOKAL INDONESIA CHANNEL",RCTV CIREBON
 https://v10.siar.us/rctv/live/playlist.m3u8
