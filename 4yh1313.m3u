@@ -1817,6 +1817,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
+#EXTINF:-1 tvg-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="PIALA DUNIA", BEIN SPORTS 1 (France)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3acea01244785a6363fc04b25d696392": "f0b8f84dbd93407af6ab0b41fc774249", "9d8b1b819cfdcff845625b86cc4968f3": "480b03fe4476bc187c6a9d43ba85b9db", "3cf686dc4246f19bc4419c54da0f90bc": "b40f599266c8a262ccf4a384dadce08a", "b6362975ca29d0685b7cac721b6faa26": "da04d180e9028af27482b6a37c81e020", "6ca2f2c822444ff76d9570741dec7b2b": "9fc3d71ab30e8d33f09ee29e5e453608"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
 
 
 
