@@ -1803,14 +1803,14 @@ https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevo
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EhPT5Y7.png" group-title="PIALA DUNIA", RTB ANEKA
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+https://d19j8udk9agj55.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4aFtDi.png" group-title="PIALA DUNIA", FOX (United States)
 http://stream.cammonitorplus.net/1772/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OjExtRy.png" group-title="PIALA DUNIA", RTB GO 
 #EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+https://d19j8udk9agj55.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="PIALA DUNIA", DSPORTS (Latin America)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
