@@ -1780,15 +1780,8 @@ https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevo
 #EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="PIALA DUNIA", TVRI SPORTS
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EhPT5Y7.png" group-title="PIALA DUNIA", RTB ANEKA
-https://d19j8udk9agj55.cloudfront.net/smil:rtb2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4aFtDi.png" group-title="PIALA DUNIA", FOX (United States)
 http://stream.cammonitorplus.net/1772/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OjExtRy.png" group-title="PIALA DUNIA", RTB GO 
-#EXTVLCOPT:network-caching=1000
-https://d19j8udk9agj55.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="PIALA DUNIA", DSPORTS (Latin America)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
