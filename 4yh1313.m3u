@@ -696,9 +696,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mediampd/CGTNDo
 #EXTINF:-1 tvg-id="cgtn-global-biz" tvg-logo="https://i.imgur.com/UO8FxmF.png" group-title="PENGETAHUAN",CGTN GLOBAL BIZ
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Knowledge.png" group-title="PENGETAHUAN",DENS KNOWLEDGE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
+#EXTINF:-1 tvg-id="DensKnowledge.id@SD" group-title="PENGETAHUAN" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Knowledge.png",DENS KNOWLEDGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8
 
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODCGTNDISCOVERINGCHINAY2025M/AVODCGTNDISCOVERINGCHINAY2025M-title-logo-en.png" group-title="PENGETAHUAN",DISCOVERING CHINA
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
