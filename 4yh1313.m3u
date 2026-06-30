@@ -1787,9 +1787,7 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 http://stream.cammonitorplus.net/1772/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="PIALA DUNIA", DSPORTS (Latin America)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+http://liontv.es:8080/live/Romero907/h39c6twKxZ/1979621.ts
 
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="PIALA DUNIA", BEIN SPORTS 1 (France)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
