@@ -706,12 +706,14 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODCGTNDISCOVERINGCHINAY2025M/AVODCGTNDISCOVERINGCHINAY2025M-title-logo-en.png" group-title="PENGETAHUAN",DISCOVERING CHINA
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 
+#EXTVLCOPT:http-referrer=https://m.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="History.id" tvg-name="History" tvg-logo="https://i.imgur.com/EtojTwF.png" group-title="PENGETAHUAN",HISTORY
-https://fta3-cdn-flr.visionplus.id/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
+#EXTINF:-1 tvg-id="History" tvg-url="https://i.imgur.com/EtojTwF.png" group-title="PENGETAHUAN",HISTORY
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hA58ewv.png" group-title="PENGETAHUAN", LOVE NATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
