@@ -713,12 +713,6 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-id="History.id" tvg-name="History" tvg-logo="https://i.imgur.com/EtojTwF.png" group-title="PENGETAHUAN",HISTORY
 https://fta3-cdn-flr.visionplus.id/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
-#EXTINF:-1 tvg-id="HistoryAsia.us@SD" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/EtojTwF.png",HISTORY
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hA58ewv.png" group-title="PENGETAHUAN", LOVE NATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
