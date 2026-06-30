@@ -12,7 +12,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://war
 ===================================================== PREMIUM MOVIE =======================================================
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="PREMIUM MOVIE", BIOSKOP INDONESIA
-http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/264801
+https://playlistku.000webhostapp.com/us/movies/biosid.m3u8
 
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/OLCR6VY.png" tvg-id="Flik.id" tvg-name="Flik" ,FLIK
 http://103.148.44.38:8000/play/a09o/index.m3u8
