@@ -23,9 +23,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 http://103.148.44.38:8000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-id="Amazon.US.AMC" tvg-logo="https://i.imgur.com/BlVBb8U.png" group-title="PREMIUM MOVIE",AMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3290efe4c5cf67165e846a0742c22cd9":"ddb94463c46af6037432fc026339c09d"}
-https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
+http://23.239.31.26:8989/amc/index.m3u8
 
 #EXTINF:-1 tvg-id="Amazon.US.AMCPlus" tvg-logo="https://i.imgur.com/HM5bmBN.png" group-title="PREMIUM MOVIE",AMC+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
