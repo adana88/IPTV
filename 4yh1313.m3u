@@ -770,8 +770,9 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="PENGETAHUAN", REAL WILD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://i.imgur.com/UAtOh0Q.png" group-title="PENGETAHUAN", INFAST
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="insight.au" tvg-name="Infast" tvg-logo="https://i.imgur.com/UAtOh0Q.png" group-title="PENGETAHUAN", INFAST
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-lggb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EARTHDAY_365" tvg-name="EarthDay 365" tvg-logo="https://i.imgur.com/vcLYXls.png" group-title="PENGETAHUAN",EARTHDAY 365
 #KODIPROP:inputstream=inputstream.adaptive
