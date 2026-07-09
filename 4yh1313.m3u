@@ -15,14 +15,10 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://war
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/OLCR6VY.png" tvg-id="Flik.id" tvg-name="Flik" ,FLIK
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+http://iptvid.my.id/hmm/Ben/spy123456/flik.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.imgur.com/BlVBb8U.png" group-title="PREMIUM MOVIE",AMC
 #EXTVLCOPT:network-caching=1000
@@ -297,7 +293,8 @@ https://d1sknsnbkyvie.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
 #EXTINF:-1:-1 tvg-id="" tvg-name="ID: CinemaWorld" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png" group-title="PREMIUM MOVIE",ID: CINEMAWORLD
-http://opplextv.cyou:8080/nasir6160/nasir/350921
+http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
