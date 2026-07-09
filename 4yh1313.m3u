@@ -24,8 +24,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
-#EXTINF:-1 tvg-id="Amazon.US.AMC" tvg-logo="https://i.imgur.com/BlVBb8U.png" group-title="PREMIUM MOVIE",AMC
-http://41.223.30.230/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.imgur.com/BlVBb8U.png" group-title="PREMIUM MOVIE",AMC
+#EXTVLCOPT:network-caching=1000
+http://23.239.31.26:8989/amc/index.m3u8
 
 #EXTINF:-1 tvg-id="Amazon.US.AMCPlus" tvg-logo="https://i.imgur.com/HM5bmBN.png" group-title="PREMIUM MOVIE",AMC+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
