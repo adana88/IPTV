@@ -313,6 +313,11 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814617/hls/master.m3u8?ads._fw_app
 #EXTINF:-1 tvg-id="XU969852" tvg-logo="https://i.imgur.com/RGbIgb9.png" group-title="PREMIUM MOVIE",UNIVERSAL MONSTERS
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814625/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=NBCUUniversalMonsters&ads.csid=tcl2_us_nbcuuniversalmonsters_ssai&ads.genre=Horror%252CSci-Fi&ads.xumo_channelId=88814625&ads.xumo_channelName=NBCUUniversalMonsters&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.xumo_streamId=88814625&declaredCC1Language=en&includeAssetTags=true
 
+#EXTINF:-1 tvg-id="Paramount" tvg-logo="https://images.seeklogo.com/logo-png/29/1/paramount-channel-latin-america-logo-png_seeklogo-298612.png" group-title="PREMIUM MOVIE",PARAMOUNT MOVIE CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+
+
 ======================================== Premium Movie Asia ================================================================
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1803,7 +1808,7 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cd
 #EXTVLCOPT:network-caching=1000
 https://streamvidex.qzz.io/videx/dsports2/index.m3u8
 
-#EXTINF:54, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="PIALA DUNIA", FIFA+ US
+#EXTINF:54, tvg-logo="https://static.cdnlogo.com/logos/f/70/fifa_thumb.png" group-title="PIALA DUNIA", FIFA+ US
 #EXTVLCOPT:network-caching=1000
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
