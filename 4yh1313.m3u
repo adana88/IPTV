@@ -999,6 +999,9 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="IzzahTV.id" tvg-logo="https://izzah.tv/img/logo_izzah.png" group-title="RELIGI | ISLAM CHANNEL",IZZAH TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
 #EXTINF:-1 tvg-id="madanitv.id" tvg-name="" tvg-logo="https://i.imgur.com/Fv2RyWH.png" group-title="RELIGI | ISLAM CHANNEL", MADANI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
