@@ -1206,6 +1206,9 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a4243017321f35
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/zM7NfUj.png" group-title="RELIGI | KRISTEN CHANNEL",HOPE CHANNEL INDONESIA
 https://cdn-sg-sin.b-cdn.net/hcorg_2WzwdSwCibJ/s/jsl_DHES6yOdMFd/master.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iamchannel.org/images/I-AM-Channel.png" group-title="RELIGI | KRISTEN CHANNEL",I AM CHANNEL
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
+
 ===================================================== LOKAL INDONEIA CHANNEL =========================================================
 
 #KODIPROP:inputstream=inputstream.adaptive
