@@ -971,12 +971,18 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 #EXTINF:-1 tvg-id="teennick.us" tvg-logo="https://i.imgur.com/k9yg0xA.png" group-title="DUNIA ANAK",TEENNICK
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Tenic.m3u8
 
-#EXTINF:-1 tvg-id="Horee!" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="DUNIA ANAK" tvg-logo="https://i.imgur.com/2IZ3ddX.png", HOREE! 
-http://opplextv.cyou:8080/nasir6160/nasir/350964
-
-#EXTINF:-1 tvg-id="Hip Hip Horee!" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="DUNIA ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Hip_Hip_Horee.png", HIP HIP HOREE!
+#EXTINF:-1 tvg-id="HipHipHoree.id@SD" group-title="DUNIA ANAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Hip_Hip_Horee.png", HIP HIP HOREE!
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://vidx.semar.my.id/biasa2.mpd?id=7052&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=7052
+https://tvratu.my.id/vid/index.mpd?id=7052
+
+#EXTINF:-1 tvg-id="Horee.id@SD" group-title="DUNIA ANAK" tvg-logo="https://i.imgur.com/2IZ3ddX.png", HOREE!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6397
+https://tvratu.my.id/vid/index.mpd?id=6397
 
 #EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/AVmfZXQ.png" group-title="DUNIA ANAK", MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
