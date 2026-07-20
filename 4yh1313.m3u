@@ -21,8 +21,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 http://iptvid.my.id/hmm/Ben/spy123456/flik.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.imgur.com/BlVBb8U.png" group-title="PREMIUM MOVIE",AMC
-#EXTVLCOPT:network-caching=1000
-http://23.239.31.26:8989/amc/index.m3u8
+http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Amazon.US.AMCPlus" tvg-logo="https://i.imgur.com/HM5bmBN.png" group-title="PREMIUM MOVIE",AMC+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
