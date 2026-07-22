@@ -10,11 +10,10 @@
 https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://warningfm.github.io/x1/epg/guide.xml.gz 
 
 ===================================================== PREMIUM MOVIE =======================================================
-
-#EXTINF:-1 tvg-id="bioskop indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="PREMIUM MOVIE", BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="bioskop indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="PREMIUM MOVIE", BIOSKOP INDONESIA
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/OLCR6VY.png" tvg-id="Flik.id" tvg-name="Flik" ,FLIK
@@ -57,10 +56,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/ind
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
  
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/u647WPC.png", CITRA BIOSKOP 
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/u647WPC.png", CITRA BIOSKOP 
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AFIdCb.png" group-title="PREMIUM MOVIE",GALAXY
@@ -531,11 +531,12 @@ https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-32777070300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://63b2dc7196c38.streamlock.net:1937/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/Am6W7vo.png" ,KOMPAS TV
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+#EXTINF:-1 group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/Am6W7vo.png" ,KOMPAS TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PvMzP7Z.png" group-title="NASIONAL CHANNEL",MAGNA CHANNEL
@@ -558,19 +559,20 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/ind
 #EXTINF:-1 tvg-id="Metro TV" group-title="NASIONAL CHANNEL" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/Yw0TCDU.png",METRO TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://i.imgur.com/6LvcaeX.png" group-title="NASIONAL CHANNEL",MNCTV
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://i.imgur.com/6LvcaeX.png" group-title="NASIONAL CHANNEL",MNCTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://i.imgur.com/o71aW3P.png" group-title="NASIONAL CHANNEL", MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/8Xdn1bt.png" group-title="NASIONAL CHANNEL",NUSANTARA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/8Xdn1bt.png" group-title="NASIONAL CHANNEL",NUSANTARA TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -580,25 +582,28 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.imgur.com/KLxxuQk.png" group-title="NASIONAL CHANNEL", RCTI
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.imgur.com/KLxxuQk.png" group-title="NASIONAL CHANNEL", RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/3Dv4WI3.png",RTV
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/3Dv4WI3.png",RTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDD817V.png" group-title="NASIONAL CHANNEL",RRI NET
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8
 
-#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/OnPL49C.png",SCTV
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/OnPL49C.png",SCTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="Sindo News TV" tvg-logo="https://i.imgur.com/fwVp38d.png" group-title="NASIONAL CHANNEL",SINDONEWS
@@ -611,11 +616,12 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-327770703
 #KODIPROP:inputstream.adaptive.license_key=27fe63a923084c12b0b05d33d204bdca:f9624ac728524e9fdf8e3a97018fe26d
 https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/P4NIO71.png" group-title="NASIONAL CHANNEL",TRANS 7
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/P4NIO71.png" group-title="NASIONAL CHANNEL",TRANS 7
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
