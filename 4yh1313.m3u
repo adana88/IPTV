@@ -1019,14 +1019,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MUI TV.id" tvg-name="MUI TV.id" tvg-logo="https://i.imgur.com/7RZAiD1.png" group-title="RELIGI | ISLAM CHANNEL",MUI TV
-#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:sout=#transcode{vcodec=h264,acodec=mpga,ab=128,channels=2,samplerate=44100,scodec=none}:display
-#EXTVLCOPT:no-sout-all
-#EXTVLCOPT:sout-keep
-https://indihuy.streamized.net/atm/DASH/muitv/manifest.mpd
-
 #EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/Y9sKXJn.png", MAKKAH TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
@@ -1035,7 +1027,7 @@ https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranAlKar
 https://atemecdnbalancer-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranAlKareem.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jpEi1G9.png" group-title="RELIGI | ISLAM CHANNEL", RODJA TV
-https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
+https://rodjatv.com/rodjatv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/znZBJcB.png" group-title="RELIGI | ISLAM CHANNEL", MADINAH TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
@@ -1048,10 +1040,6 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL"  tvg-logo="https://i.imgur.com/SbBiswp.png", TV9 NUSANTARA
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="AswajaTV.id" tvg-name="AswajaTV" tvg-logo="https://i.imgur.com/P5fOxZQ.png" group-title="RELIGI | ISLAM CHANNEL", ASWAJA TV
-https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -1075,16 +1063,6 @@ https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="HijrahTV" tvg-name="Hijrah TV" group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/H3Uz0wO.png",HIJRAH TV
 https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/kuSANOS.png",MTATV
-https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FyCIRP2.png" group-title="RELIGI | ISLAM CHANNEL",AHSAN TV
 https://flv.intechmedia.net/live/ch4.m3u8|User-Agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
@@ -1134,6 +1112,10 @@ https://flv.intechmedia.net/live/ch3.m3u8|user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjt25.useetv.com/joss/14/khazanah/chunklist_b684100_sleng_.m3u8
+
+#EXTINF:-1 tvg-id="AshiilTV.id@SD" group-title="RELIGI | ISLAM CHANNEL"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png/revision/latest?cb=20180922125304",ASHIIL TV
+#EXTVLCOPT:http-referrer=https://ashiil.tv/
+https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 
 ===================================================== RELIGI | KRISTEN CHANNEL ========================================================
 
@@ -1231,7 +1213,7 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 group-title="LOKAL INDONESIA CHANNEL" tvg-id="BandungTV.id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png",BANDUNG TV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
  
 #EXTINF:-1 tvg-logo="https://web.tatv.co.id/wp-content/uploads/2023/04/logotatv.png" group-title="LOKAL INDONESIA CHANNEL",TATV
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
