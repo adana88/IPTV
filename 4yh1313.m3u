@@ -1105,15 +1105,7 @@ https://flv.intechmedia.net/live/ch33.m3u8|user-agent=Mozilla/5.0
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/OObz9u3.png" group-title="RELIGI | ISLAM CHANNEL",SURAU TV   
 https://flv.intechmedia.net/live/ch3.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/AT8VtLS.png",KHAZANAH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjt25.useetv.com/joss/14/khazanah/chunklist_b684100_sleng_.m3u8
-
-#EXTINF:-1 tvg-id="AshiilTV.id@SD" group-title="RELIGI | ISLAM CHANNEL"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png/revision/latest?cb=20180922125304",ASHIIL TV
+#EXTINF:-1 tvg-id="AshiilTV.id@SD" group-title="RELIGI | ISLAM CHANNEL"tvg-logo="https://i.imgur.com/TntROwW.png",ASHIIL TV
 #EXTVLCOPT:http-referrer=https://ashiil.tv/
 https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 
