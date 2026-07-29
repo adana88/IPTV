@@ -1102,6 +1102,9 @@ https://www.youtube.com/watch?v=EDnKfiDlSkw
 
 ===================================================== RELIGI | KRISTEN CHANNEL ========================================================
 
+#EXTINF:-1 tvg-id="AngelTV.in@Indonesia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",ANGEL TV INDONESIA
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id=""  tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/XtyOEWh.png" group-title="RELIGI | KRISTEN CHANNEL",CATHOLIC TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
 
