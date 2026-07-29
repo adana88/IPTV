@@ -1097,6 +1097,9 @@ https://flv.intechmedia.net/live/ch3.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://ashiil.tv/
 https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MTA-TV" group-title="RELIGI | ISLAM CHANNEL"tvg-logo="https://i.imgur.com/TntROwW.png",MTA TV
+https://www.youtube.com/watch?v=EDnKfiDlSkw
+
 ===================================================== RELIGI | KRISTEN CHANNEL ========================================================
 
 #EXTINF:-1 tvg-id=""  tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/XtyOEWh.png" group-title="RELIGI | KRISTEN CHANNEL",CATHOLIC TV
