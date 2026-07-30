@@ -117,7 +117,10 @@ https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyeMmhO.png" group-title="PREMIUM MOVIE", HORROR MACHINE
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wqyqz6p.png" group-title="PREMIUM MOVIE", HORROR TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iUApmn8.png" group-title="PREMIUM MOVIE", MHZ CHOICE
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
  
