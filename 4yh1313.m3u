@@ -248,19 +248,11 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/WIDBd9W.png",MOVIES NEWS-1
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/WIDBd9W.png",MOVIES NEWS-2
+#EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/WIDBd9W.png",MOVIES NEWS
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://i.imgur.com/2hKkthr.png" group-title="PREMIUM MOVIE",MY CINEMA EUROPE
@@ -1098,11 +1090,11 @@ https://flv.intechmedia.net/live/ch3.m3u8|user-agent=Mozilla/5.0
 https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTA-TV" group-title="RELIGI | ISLAM CHANNEL"tvg-logo="https://i.imgur.com/TntROwW.png",MTA TV
-https://www.youtube.com/watch?v=EDnKfiDlSkw
+
 
 ===================================================== RELIGI | KRISTEN CHANNEL ========================================================
 
-#EXTINF:-1 tvg-id="AngelTV.in@Indonesia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",ANGEL TV INDONESIA
+#EXTINF:-1 tvg-id="AngelTV.in@Indonesia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="RELIGI | KRISTEN CHANNEL",ANGEL TV INDONESIA
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/XtyOEWh.png" group-title="RELIGI | KRISTEN CHANNEL",CATHOLIC TV
