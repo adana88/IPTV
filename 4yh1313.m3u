@@ -308,6 +308,12 @@ https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="SONY ONE HM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png" group-title="PREMIUM MOVIE",SONY ONE HITS ACTION
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SONY PIX" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="PREMIUM MOVIE",SONY PIX
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5410&deviceMac=00:1A:79:17:BF:CE
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9381.m3u8
+http://perfecttv.net:8080/Perfecttv/Perfecttv/16
+http://119.156.26.155:8000/play/a07d/index.m3u8
+
 
 ======================================== Premium Movie Asia ================================================================
 
