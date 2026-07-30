@@ -58,7 +58,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/in
 #KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png" group-title="PREMIUM MOVIE",CINEMA WORLD
-https://premimum.online/jen12345/jen54321/151069
+https://cdn.qd.je/163189/cinemaworld
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -296,6 +296,9 @@ https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="PREMIUM MOVIE",SONY MOVIES
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SONY ONE HM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png" group-title="PREMIUM MOVIE",SONY ONE HITS ACTION
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 
 
 ======================================== Premium Movie Asia ================================================================
