@@ -17,7 +17,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://war
 #EXTINF:-1 tvg-id="bioskop indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="PREMIUM MOVIE", BIOSKOP INDONESIA
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OLCR6VY.png" group-title="ENTERTAINMENT", FLIK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OLCR6VY.png" group-title="PREMIUM MOVIE", FLIK
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
