@@ -317,6 +317,9 @@ http://119.156.26.155:8000/play/a07d/index.m3u8
 
 ======================================== Premium Movie Asia ================================================================
 
+#EXTINF:-1 tvg-id="Citra Drama" tvg-logo="https://i.imgur.com/mqBeKch.png" group-title="PREMIUM MOVIE ASIA",CITRA DRAMA
+http://202.169.224.202:8800/udp/239.9.1.12:1234
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
