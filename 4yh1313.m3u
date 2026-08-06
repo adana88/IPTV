@@ -267,12 +267,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc46
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
 
-#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-logo="https://i.imgur.com/UmNTb35.png" group-title="PREMIUM MOVIE",REELZ CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2312fd39721560ea14f98caf3464195e:93713bb73be2d8aedf3eeb898850e7d5
-https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd
-
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/8qwkkyv.png", CW FOREVER
 https://d1sknsnbkyvie.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/playlist.m3u8
 
@@ -790,6 +784,12 @@ https://a51aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/9w8a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4398eb0b3eb86786e4ec7127312cd0:3fec84cee711701c7ada5163ba77b98d
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/orgtigwisa/out/v1/de928716d3d845d5aa5635080fbd5098/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-logo="https://i.imgur.com/UmNTb35.png" group-title="PENGETAHUAN",REELZ CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2312fd39721560ea14f98caf3464195e:93713bb73be2d8aedf3eeb898850e7d5
+https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd
 
 ==================================================== DUNIA ANAK ============================================================
 
@@ -1351,6 +1351,9 @@ https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8?ad
 
 #EXTINF:-1 tvg-id="FE328250" tvg-logo="https://i.imgur.com/uaLzPs5.png" group-title="METRO GOLDWYN MAYER",MGM PRESENTS HORROR
 https://linear-1217.frequency.stream/dist/tcltv/1217/hls/master/playlist.m3u8?ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.brand_name=TCL&ads.coppa=0&ads.csid=CSID&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.dnt=DNT&ads.duration=DURATION&ads.gdpr=0&ads.gdpr_consent=GDPR_CONSENT&ads.gpp=GPP&ads.gpp_sid=GPP_SID&ads.ic=IC&ads.ifa_type=IFA_TYPE&ads.lmt=LMT&ads.us_privacy=1YN-
+
+#EXTINF:-1 tvg-id="99951574" tvg-name="MGM Celebrates Black Cinema" tvg-logo="https://image.xumo.com/v1/channels/channel/99951574/168x168.png?type=color_onBlack" group-title="METRO GOLDWYN MAYER",MGM CELEBRATES BLACK CINEMA
+https://dbrb49pjoymg4.cloudfront.net/10001/99951574/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951574&ads.xumo_streamId=99951574&ads.channelId=99951574&ads.channelName=MGMCelebratesBlackCinema&ads.caid=MGMCelebratesBlackCinema&ads.csid=xumo_web_MGMCelebratesBlackCinema_ssai&ads.genre=FF,IAB1-5,IAB14&ads._fw_content_genre=FF,IAB1-5,IAB14&ads._fw_coppa=0&ads.xumo_contentId=4495&ads.xumo_contentName=MGMCelebratesBlackCinema&ads.xumo_providerId=4495&ads.xumo_providerName=MGMCelebratesBlackCinema&ads.asnw=&ads.xumo_channelName=MGMCelebratesBlackCinema&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=698aaed2-f0a4-46fc-83a8-a21e324b6806&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
 
 <================================================== Malaysia Channel ===============================================================>
 
