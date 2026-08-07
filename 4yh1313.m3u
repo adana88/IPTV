@@ -442,15 +442,16 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v
 
 ============================================ NASIONAL CHANNEL =================================================
 
-#EXTINF:-1 tvg-id="AntaraTV.id@SD" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/faCDdQm.png",ANTARA TV
-https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_2500000=7-3277707030000000.mpd
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
+#EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara TV" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/faCDdQm.png",ANTARA TV
+https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_1000000=500-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DDx5PSN.png" group-title="NASIONAL CHANNEL",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+#EXTINF:-1 tvg-id="ANTV tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/DDx5PSN.png" group-title="NASIONAL CHANNEL",ANTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/zKaiiyK.png" group-title="NASIONAL CHANNEL",ASTHA TV
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
@@ -479,11 +480,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/lWJUMbB.png" group-title="NASIONAL CHANNEL",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ft7NFSN.png" group-title="NASIONAL CHANNEL",DAAI TV
-https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTINF:-1 tvg-id="DAAI TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/Ft7NFSN.png" group-title="NASIONAL CHANNEL",DAAI TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 #EXTINF:-1 tvg-id="Elshinta TV.id" tvg-name="Elshinta TV.id" tvg-logo="https://i.imgur.com/WMiuPsu.png" group-title="NASIONAL CHANNEL", ELSHINTA
 http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/index10.m3u8
@@ -492,12 +495,13 @@ http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/RRsmXBp.png" group-title="NASIONAL CHANNEL",GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
 #EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/FG16QEP.png" group-title="NASIONAL CHANNEL",GLOBAL TV
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 #EXTINF:-1 tvg-id="TIC" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="NASIONAL CHANNEL", THE INDONESIA CHANNEL
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
@@ -521,21 +525,16 @@ https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-32777070300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://63b2dc7196c38.streamlock.net:1937/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/Am6W7vo.png" ,KOMPAS TV
-https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-id="Kompas TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/Am6W7vo.png" ,KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PvMzP7Z.png" group-title="NASIONAL CHANNEL",MAGNA CHANNEL
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
-#EXTINF:-1 tvg-url="" tvg-id="MDTV.id" group-title="NASIONAL CHANNEL" tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/hzeJEfT.png",MDTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
+#EXTINF:-1 tvg-id="MDTV" group-title="NASIONAL CHANNEL" tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/hzeJEfT.png",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV" group-title="NASIONAL CHANNEL" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/Yw0TCDU.png",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -618,9 +617,6 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kIKFITE.png" group-title="NASIONAL CHANNEL",DUTA TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cFafA6K.png" group-title="NASIONAL CHANNEL", TV PARLEMEN
-http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
 ============================================ PENGETAHUAN =================================================
 
