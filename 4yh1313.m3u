@@ -605,6 +605,9 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kIKFITE.png" group-title="NASIONAL CHANNEL",DUTA TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_TV_Parlemen.png" group-title="NASIONAL CHANNEL",TVP PARLEMEN
+http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+
 ============================================ PENGETAHUAN =================================================
 
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/9wgDUTR.png" group-title="PENGETAHUAN", ANIMAL PLANET
