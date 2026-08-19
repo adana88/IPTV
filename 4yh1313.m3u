@@ -970,12 +970,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
 #EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/Y9sKXJn.png", MAKKAH TV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#https://triwied.serv00.net/live/ytlive.m3u8?id=sPCL4-6cpnk
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
+#https://playlist.x10.mx/youtube/play.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
+https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jpEi1G9.png" group-title="RELIGI | ISLAM CHANNEL", RODJA TV
 https://rodjatv.com/rodjatv/live.m3u8
@@ -1060,7 +1060,9 @@ https://flv.intechmedia.net/live/ch3.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://ashiil.tv/
 https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTA-TV" group-title="RELIGI | ISLAM CHANNEL"tvg-logo="https://i.imgur.com/TntROwW.png",MTA TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQFp3HiflczPJ-jZ0ruzeOP1bNuJJgoFHehHOdbg4zA&s" group-title="RRELIGI | ISLAM CHANNEL", NABAWI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://202.150.161.117:8000/play/NabawiTV
 
 
 ===================================================== RELIGI | KRISTEN CHANNEL ========================================================
