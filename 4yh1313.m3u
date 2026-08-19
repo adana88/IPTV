@@ -590,6 +590,10 @@ https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000
 #EXTINF:-1 group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/lgiILb6.png",TVRI
 https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/lgiILb6.png",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QBjpH8e.png" group-title="NASIONAL CHANNEL",TVRI WORLD
@@ -1204,7 +1208,7 @@ https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8
 https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvg-url=" tvg-logo="https://lingkar.tv//assets/img/logo-lingkartv.png" group-title="LOKAL INDONESIA CHANNEL",LINGKAR TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
+https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
