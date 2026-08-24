@@ -797,13 +797,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 http://baka.semar.my.id:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/Vwt1enW.png" group-title="DUNIA ANAK" tvg-id="Cartoon Network", CARTOON NETWORK
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Awc8zFb.png" group-title="DUNIA ANAK" tvg-id="DUNIA ANAK.id" tvg-name="DUNIA ANAK TV - [Channel 46].id", KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
