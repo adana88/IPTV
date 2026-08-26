@@ -1023,14 +1023,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hjlZddv.png" group-title="RELIGI | ISLAM CHANNEL", MUHAMMADIYAH TV
 https://e.siar.us/live/tvmu.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kIsQJAH.png" group-title="RELIGI | ISLAM CHANNEL", CITRA MUSLIM
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
-http://cool365.xyz:900/live/4160189881/DB4ACD54/401666265.ts
-
 #EXTINF:-1 tvg-id="insantv" tvg-name="Insan TV" group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/Jc7vUQk.png",INSAN TV
 https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
 
@@ -1153,6 +1145,12 @@ https://cdn-sg-sin.b-cdn.net/hcorg_2WzwdSwCibJ/s/jsl_DHES6yOdMFd/master.m3u8
 https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
 
 ===================================================== LOKAL INDONEIA CHANNEL =========================================================
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="LOKAL INDONESIA CHANNEL" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",BRTV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
