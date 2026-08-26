@@ -458,6 +458,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 
 ============================================ NASIONAL CHANNEL =================================================
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.assured_buffer_length=30
 #KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara TV" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/faCDdQm.png",ANTARA TV
