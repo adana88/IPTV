@@ -104,11 +104,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/in
 #KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-id="HITSNow.id" tvg-name="HITS NOW" tvg-logo="https://i.imgur.com/RWzxEKq.png" group-title="PREMIUM MOVIE",HITS NOW
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cw86YNt.png" group-title="PREMIUM MOVIE", HOLLYWOOD MOVIES
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
  
@@ -243,14 +238,6 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://i.imgur.com/nXaHRVI.png" group-title="PREMIUM MOVIE", MOVIES NOW
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/WIDBd9W.png",MOVIES NEWS
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
-
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://i.imgur.com/2hKkthr.png" group-title="PREMIUM MOVIE",MY CINEMA EUROPE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
@@ -282,11 +269,6 @@ https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="SONY ONE HM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png" group-title="PREMIUM MOVIE",SONY ONE HITS ACTION
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SONY PIX" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="PREMIUM MOVIE",SONY PIX
-http://103.253.18.58:8000/play/a01v
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="PREMIUM MOVIE",STAR MOVIES HD
-http://103.253.18.58:8000/play/a01x
 ======================================== Premium Movie Asia ================================================================
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
