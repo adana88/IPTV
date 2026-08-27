@@ -471,9 +471,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b3840
 https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
-#EXTINF:-1 tvg-id="Elshinta TV.id" tvg-name="Elshinta TV.id" tvg-logo="https://i.imgur.com/WMiuPsu.png" group-title="NASIONAL CHANNEL", ELSHINTA
-http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/index10.m3u8
-
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/RRsmXBp.png" group-title="NASIONAL CHANNEL",GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
