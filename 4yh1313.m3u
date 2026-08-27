@@ -431,25 +431,25 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_1000000=500-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="ANTV tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/DDx5PSN.png" group-title="NASIONAL CHANNEL",ANTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://beetv.my.id/stream/vd.m3u8?ch=antv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=782
+https://tvratu.my.id/vid/index.mpd?id=782
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/zKaiiyK.png" group-title="NASIONAL CHANNEL",ASTHA TV
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
-#EXTINF:-1 group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/c4qsxIn.png" ,BERITA SATU
-#EXTVLCOPT:http-user-agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://lnd0t3b922.tenbytecdn.com/ta-sg1/89c624c5-4b4f-473c-b50d-1a156a1c0174/master.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/c4qsxIn.png" ,BERITA SATU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/69l4RIM.png" group-title="NASIONAL CHANNEL",BNTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="NASIONAL CHANNEL" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/JoWotSC.png",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu.mpd
+#EXTINF:-1 tvg-id="BTV.id@SD" group-title="NASIONAL CHANNEL" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/JoWotSC.png",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKiATAK.png" group-title="NASIONAL CHANNEL",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
