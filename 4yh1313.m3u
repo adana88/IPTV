@@ -63,6 +63,9 @@ https://cdn.qd.je/163189/cinemaworld
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/u647WPC.png", CITRA BIOSKOP 
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
+#EXTINF:-1 tvg-id="FicomChannel.id" tvg-logo="https://i.imgur.com/KMEf0Cc.png" group-title="PREMIUM MOVIE",FICOM CHANNEL
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AFIdCb.png" group-title="PREMIUM MOVIE",GALAXY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
