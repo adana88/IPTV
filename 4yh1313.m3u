@@ -353,15 +353,19 @@ https://cdn3.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/yduJuvC.png", HBO
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/HvcnS2a.png", HBO HITS
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/v8gALcV.png", HBO FAMILY
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
@@ -380,19 +384,6 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
 ---------- Alternatif ----------
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79f8g.png" group-title="HBO",HBO (ALTERNATIF)
-http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79nwv.png" group-title="HBO",HBO HITS (ALTERNATIF)
-http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
