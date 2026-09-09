@@ -416,14 +416,14 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKiATAK.png" group-title="NASIONAL CHANNEL",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1219842928_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg5NzI4MjUzNTkmd293emF0b2tlbmhhc2g9M0pYc1k4M29HWWZjRnpBVEtqZWxHV0JyZUhieUo1VDRfUTUzZTloSDZlTT0=.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/lWJUMbB.png" group-title="NASIONAL CHANNEL",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1575054506_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg5NzI3NzMyOTgmd293emF0b2tlbmhhc2g9UDdsMTJvQUdpQzFpS3FIVGVQSDFuNDBReU1mbTlEcVdpTnVKNVVjLVI0Yz0=.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -432,6 +432,11 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b3840
 #EXTINF:-1 tvg-id="DAAI TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/Ft7NFSN.png" group-title="NASIONAL CHANNEL",DAAI TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#EXTINF:-1 tvg-id="Elshinta TV.id" tvg-name="Elshinta TV.id" tvg-logo="https://i.imgur.com/WMiuPsu.png" group-title="NASIONAL CHANNEL", ELSHINTA
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/S1/mnf.m3u8
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/RRsmXBp.png" group-title="NASIONAL CHANNEL",GARUDA TV
@@ -523,11 +528,11 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/P4NIO71.png" group-title="NASIONAL CHANNEL",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1609621808_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg5NzI2ODE4MzImd293emF0b2tlbmhhc2g9WXlqOURKZFRzNDR2LWdyME5JeHQybmxvSnFlSWw0QXcxUXhKZlIzWi1lWT0=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SMycKf4.png" group-title="NASIONAL CHANNEL",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1559289305_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg5NzI1NDM4MzAmd293emF0b2tlbmhhc2g9bTFOYjcwMDB0WEh3Q3NEeDZaam92Zm9QcG1QQ2xjOEFOb1dkNXRNZ2xJcz0=.m3u8
 
 #EXTINF:-1 tvg-id="TVOne" group-title="NASIONAL CHANNEL" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/hCzUZnd.png",TVONE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
