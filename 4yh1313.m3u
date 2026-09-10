@@ -797,12 +797,7 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965
 https://cdnbal1.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcwAvs8.png" group-title="DUNIA ANAK" tvg-id="ZooMoo.sg" tvg-name="Zoomoo", ZOOMOO
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Max.Kids.id" tvg-logo="https://i.imgur.com/XWJQS4F.png" group-title="DUNIA ANAK",MAX KIDS
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
