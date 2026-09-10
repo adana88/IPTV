@@ -416,14 +416,14 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JKiATAK.png" group-title="NASIONAL CHANNEL",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
-https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1219842928_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg5NzI4MjUzNTkmd293emF0b2tlbmhhc2g9M0pYc1k4M29HWWZjRnpBVEtqZWxHV0JyZUhieUo1VDRfUTUzZTloSDZlTT0=.m3u8
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1980901320_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODkwMjEyNDM3MzImd293emF0b2tlbmhhc2g9MlJ6WGRjcHE0VVJib21ldXJ3czljOHlabXJIcEhnNXg5RFNEdXJFbGlBaz0=.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/lWJUMbB.png" group-title="NASIONAL CHANNEL",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1575054506_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg5NzI3NzMyOTgmd293emF0b2tlbmhhc2g9UDdsMTJvQUdpQzFpS3FIVGVQSDFuNDBReU1mbTlEcVdpTnVKNVVjLVI0Yz0=.m3u8
+https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1059934078_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODkwMjE0MzcyMjImd293emF0b2tlbmhhc2g9V0t0ZHFjaGtHeVF1aXM5eFF2UlV4VklCbVJDVVNHbWpYeUJrQmdBMnVBTT0=.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
