@@ -455,8 +455,7 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/tOUF45I.png",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://i.imgur.com/evLvHTK.gif" group-title="NASIONAL CHANNEL", INEWS
 #EXTVLCOPT:http-user-agent=android-R+
@@ -559,7 +558,7 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SindoNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/fwVp38d.png" group-title="NASIONAL CHANNEL",SINDONEWS
-https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
 ============================================ PENGETAHUAN =================================================
 
