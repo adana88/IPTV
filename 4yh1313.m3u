@@ -1234,6 +1234,9 @@ https://tvku.tv/hlsstream/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/38I0sg2.png" group-title="LOKAL INDONESIA CHANNEL",DHOHO TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="timor.tv" tvg-logo="https://i.imgur.com/o0DSsY1.png" group-title="LOKAL INDONESIA CHANNEL",TIMOR TV
+http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
+
 ===================================================== METRO GOLDWYN MAYER =============================================================
 
 #EXTINF:-1  tvg-id="MGM+.HD.us2" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="METRO GOLDWYN MAYER",MGM+
