@@ -74,13 +74,11 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NhY0Tux.png" group-title="PREMIUM MOVIE",GALAXY PREMIUM
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NhY0Tux.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="PREMIUM MOVIE",GALAXY PREMIUM
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302245
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Po2xRSi.png" group-title="PREMIUM MOVIE",HERSPHERE 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
@@ -210,12 +208,15 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 #EXTINF:-1 tvg-id="Warner TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/yxt1qxh.png" group-title="PREMIUM MOVIE",WARNERBROS TV
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBioskop.id@SD" group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/F1lw8hz.png", ZEE BIOSKOP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+#EXTINF:-1 tvg-id="ZeeBioskop.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/F1lw8hz.png", ZEE BIOSKOP
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/WmVlIEJpb3Nrb3A/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ghnyv6s.png" group-title="PREMIUM MOVIE", ZEE CINEMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -348,33 +349,29 @@ https://cdn3.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 
 ============================================ HBO =================================================
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/yduJuvC.png", HBO
-http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501248
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/HvcnS2a.png", HBO HITS
-http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501250
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="HBO Family" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/v8gALcV.png", HBO FAMILY
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302249
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/59W34l9.png", HBO SIGNATURE
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501251
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/apiAKCQ.png" group-title="HBO", HBO COMEDY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
