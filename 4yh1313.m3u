@@ -559,13 +559,6 @@ https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 
 ============================================ PENGETAHUAN =================================================
 
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/9wgDUTR.png" group-title="PENGETAHUAN", ANIMAL PLANET
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
