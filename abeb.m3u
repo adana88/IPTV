@@ -391,7 +391,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v
 https://tvratu.my.id/vid/index.mpd?id=782
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/zKaiiyK.png" group-title="NASIONAL CHANNEL",ASTHA TV
-https://hgmtv.com:19360/asthatv/asthatv.m3u8
+https://hgmtv.com:2020/hls/asthalive/1080p.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/c4qsxIn.png" ,BERITA SATU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
