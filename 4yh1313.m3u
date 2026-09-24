@@ -517,12 +517,10 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/P4NIO71.png" group-title="NASIONAL CHANNEL",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1609621808_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg5NzI2ODE4MzImd293emF0b2tlbmhhc2g9WXlqOURKZFRzNDR2LWdyME5JeHQybmxvSnFlSWw0QXcxUXhKZlIzWi1lWT0=.m3u8
+http://119.82.250.109:8080/nl.m3u8?id=1002
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SMycKf4.png" group-title="NASIONAL CHANNEL",TRANS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1559289305_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODg5NzI1NDM4MzAmd293emF0b2tlbmhhc2g9bTFOYjcwMDB0WEh3Q3NEeDZaam92Zm9QcG1QQ2xjOEFOb1dkNXRNZ2xJcz0=.m3u8
+http://119.82.250.109:8080/nl.m3u8?id=1145
 
 #EXTINF:-1 tvg-id="TVOne" group-title="NASIONAL CHANNEL" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/hCzUZnd.png",TVONE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -548,12 +546,8 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=5&type=fitnah
 #EXTINF:-1 tvg-id="SindoNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/fwVp38d.png" group-title="NASIONAL CHANNEL",SINDONEWS
-https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 
 ============================================ PENGETAHUAN =================================================
 
