@@ -605,6 +605,10 @@ https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/ind
 
 ============================================ PENGETAHUAN ==================================================
 
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMALPLANET" tvg-logo="https://i.imgur.com/9wgDUTR.png" group-title="PENGETAHUAN",ANIMAL PLANET 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4004c8f6817b9ae1bd0d418905ae2b02/index.m3u8?s=nfGaStC8X2QRKzW3nWM_Bw&e=2090535538&scheme=https
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
