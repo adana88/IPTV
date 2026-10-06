@@ -11,7 +11,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://war
 
 ===================================================== PREMIUM MOVIE =======================================================
 
-#EXTINF:-1 tvg-logo="https://iili.io/BQo8YwQ.png" group-title="PREMIUM MOVIE", 4FILM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RbyGNcj.png" group-title="PREMIUM MOVIE", 4FILM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
@@ -24,7 +24,7 @@ https://bit.ly/3SRLf1h
 #KODIPROP:inputstream.adaptive.license_key={"59a51164c2c915352f04066a06f6e807":"eba5cc362d1d63c0fe6460febca0fd11"}
 https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
 
-#EXTINF:-1 tvg-id="WU077541" tvg-logo="https://i.imgur.com/wZX9DpU.png" group-title="PREMIUM MOVIE",AMC THRILLERS
+#EXTINF:-1 tvg-id="WU077541" tvg-logo="https://i.imgur.com/rRCqxa6.png" group-title="PREMIUM MOVIE",AMC THRILLERS
 https://ca287254.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0FNQ1RocmlsbGVyc19ITFM/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=%7BCONSENT%7D&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=%7BGIVN%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=%7BU_PALN%7D&ads.us_privacy=1YN-&ads.wurl_channel=476&ads.wurl_name=AMCThrillers
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -39,6 +39,14 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 
 #EXTINF:-1 tvg-id="Bioskop.Indonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="PREMIUM MOVIE",BIOSKOP INDONESIA
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
+
+###KODIPROP:inputstreamaddon=inputstream.adaptive
+###KODIPROP:inputstream.adaptive.manifest_type=dash
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://i.imgur.com/OLCR6VY.png" group-title="PREMIUM MOVIE",FLIK
+https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NaZy9CTmYrVG13Z0pQVjFaRjhoMzNzR28yNjAzdkpKZFBZTDFKUUxvdVNMWg
+http://013tv.com:8080/live/F33848/cbd9779b/165095.ts
 
 #EXTINF:-1 tvg-id="BuddyStar.id" tvg-name="Buddy Star" tvg-logo="https://i.imgur.com/mWFBfmP.png" group-title="PREMIUM MOVIE",BUDDY STAR
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
@@ -60,7 +68,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/in
 #KODIPROP:inputstream=ffmpegdirect
 #KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
 #KODIPROP:network-caching=2000
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png" group-title="PREMIUM MOVIE",CINEMA WORLD
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png" group-title="PREMIUM MOVIE",CINEMAWORLD
 ###http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179210
 http://013tv.com:8080/F33848/cbd9779b/165082
 
@@ -287,20 +295,11 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814625/hls/master.m3u8?ads._fw_app
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
-#EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="PREMIUM MOVIE",SONY MOVIES
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://i.imgur.com/LRc5BRr.png" group-title="PREMIUM MOVIE",SONY MOVIES
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SONY ONE HM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png" group-title="PREMIUM MOVIE",SONY ONE HITS ACTION
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://art.pixilart.com/afe9e5311aad7d6.png" group-title="PREMIUM MOVIE",MIRAMAX FILM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e08a6933238d3fb585c00a7d95e896c:2d55d1208eaeabcc57e3b7b92c4e9f09
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
 
 ======================================== Premium Movie Asia ================================================================
 
@@ -327,7 +326,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=204
-#EXTINF:-1 tvg-id="Drama.Channel.id" tvg-name="Drama Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_Drama_Channel.png" group-title="PREMIUM MOVIE ASIA",DRAMA CHANNEL 
+#EXTINF:-1 tvg-id="Drama.Channel.id" tvg-name="Drama Channel" tvg-logo="https://i.imgur.com/I71gvQS.png" group-title="PREMIUM MOVIE ASIA",DRAMA CHANNEL 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zlwz9pr.png" group-title="PREMIUM MOVIE ASIA",DRAMA HEBAT
@@ -402,36 +401,28 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 https://cdn3.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 
 ============================================ HBO =================================================
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="HBO" tvg-logo="https://i.imgur.com/xvV7KRR.png", CINEMAX
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302227
+http://013tv.com:8080/F33848/cbd9779b/197964
+https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NaaHoyTDhKcWJ3alY4TTMySkNRNDVvWjZKZFJLTUlSQ0pGdHFsQVRzZ2grMw
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/yduJuvC.png", HBO
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501248
+http://013tv.com:8080/F33848/cbd9779b/306484
+http://013tv.com:8080/F33848/cbd9779b/197972
+https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NaZy9CTmYrVG13Z0pQVjFaRjhoMzNzRTdTbHhRazZWWEU2d2pYSUpzcCsxZw
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/HvcnS2a.png", HBO HITS
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501250
+http://013tv.com:8080/F33848/cbd9779b/306486
+http://013tv.com:8080/F33848/cbd9779b/196480
+http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34540
+https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NacGpZMlVuMXNjSkt6ZmVoTnh4MWR4MDltWXdTb0o2Q3FpcmZscXJTblhTNg
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="HBO Family" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/v8gALcV.png", HBO FAMILY
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302249
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/59W34l9.png", HBO SIGNATURE
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501251
+http://013tv.com:8080/F33848/cbd9779b/306483
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/apiAKCQ.png" group-title="HBO", HBO COMEDY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -448,7 +439,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v
 https://tvratu.my.id/vid/index.mpd?id=782
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/zKaiiyK.png" group-title="NASIONAL CHANNEL",ASTHA TV
-https://hgmtv.com:2020/hls/asthalive/1080p.m3u8
+https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/c4qsxIn.png" ,BERITA SATU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -618,6 +609,10 @@ https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 ============================================ PENGETAHUAN ==================================================
+
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMALPLANET" tvg-logo="https://i.imgur.com/9wgDUTR.png" group-title="PENGETAHUAN",ANIMAL PLANET 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4004c8f6817b9ae1bd0d418905ae2b02/index.m3u8?s=nfGaStC8X2QRKzW3nWM_Bw&e=2090535538&scheme=https
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
