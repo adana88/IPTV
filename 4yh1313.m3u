@@ -310,6 +310,9 @@ https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="MegaPix" tvg-name="MegaPix" tvg-logo="https://i.imgur.com/ZHtrX4h.png" group-title="PREMIUM MOVIE",MEGAPIX
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd
 
+#EXTINF:-1 channel-id="6368e15a51e9560007c592ed" tvg-id="6368e15a51e9560007c592ed" tvg-chno="75" tvg-name="OUTflix Movies" tvg-logo="https://i.imgur.com/C4gs8S4.png" group-title="PREMIUM MOVIE",OUTFLIX MOVIES
+https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
+
 ======================================== Premium Movie Asia ================================================================
 
 #EXTINF:-1 tvg-id="Celestial Movies Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/FmNU8Rf.png" group-title="PREMIUM MOVIE ASIA",CELESTIAL MOVIES
