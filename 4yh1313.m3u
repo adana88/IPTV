@@ -361,11 +361,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-name="K-Plus" tvg-logo="https://i.imgur.com/PQ87iLx.png" group-title="PREMIUM MOVIE ASIA", K-PLUS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
+http://013tv.com:8080/F33848/cbd9779b/197969
+http://013tv.com:8080/live/F33848/cbd9779b/197969.ts
 
 #EXTINF:-1 tvg-id="" group-title="PREMIUM MOVIE ASIA" ch-number="136" tvg-logo="https://i.imgur.com/pCRXOSB.png",OH MY CERIA!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
