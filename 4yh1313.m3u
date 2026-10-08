@@ -361,8 +361,10 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-name="K-Plus" tvg-logo="https://i.imgur.com/PQ87iLx.png" group-title="PREMIUM MOVIE ASIA", K-PLUS
-http://013tv.com:8080/F33848/cbd9779b/197969
-http://013tv.com:8080/live/F33848/cbd9779b/197969.ts
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=Zjc0NjIwZGFmYThiMzk3ODZkOThhYzM3Zjc3MDI2OTg=&time=77777777777&device_id=xvfT1Unjt6MxKn7jiWIyvhNBDk0OyvwykMopXDXvVOdAgG1noA
 
 #EXTINF:-1 tvg-id="" group-title="PREMIUM MOVIE ASIA" ch-number="136" tvg-logo="https://i.imgur.com/pCRXOSB.png",OH MY CERIA!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
