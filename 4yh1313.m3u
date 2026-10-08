@@ -853,8 +853,15 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=058
 #EXTINF:-1 tvg-logo="https://i.imgur.com/31JOFxG.png" group-title="DUNIA ANAK" tvg-id="6236" tvg-name="CBeebies (HD)", CBEEBIES
-https://cdnbal1.indihometv.com/atm/DASH/cbeebies/cbeebies-avc1_1000000=500-3277707030000000.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LbazT7s.png" group-title="DUNIA ANAK", BABY SHARK 
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -908,12 +915,11 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 #EXTINF:-1 tvg-chno="44" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="https://i.imgur.com/kdoM8KO.png" group-title="DUNIA ANAK", DISNEY XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/Bmvvbpb.png" group-title="DUNIA ANAK",CARTOONITO
-https://cdnbal1.indihometv.com/atm/DASH/boomerang/master.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://canale-tv.net
+#EXTVLCOPT:http-referrer=https://canale-tv.net/
+https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bKawLaM.png" group-title="DUNIA ANAK",MOONBUG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -966,8 +972,12 @@ http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 #EXTINF:-1 group-title="DUNIA ANAK" tvg-logo="https://i.imgur.com/FTOXy2j.png", PBS KIDS  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P2BmFhM.png" group-title="DUNIA ANAK",BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8|User-Agent=referrer=http://www.biznetvideo.net/
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=BFQE_NtUYLScAUYvx2vpe9IsezHwkSHpL8q-eqK12ZvrexZJmhAVeqDFTOrWvYXR
 
 #EXTINF:-1 tvg-id="VTV.id" tvg-logo="https://i.imgur.com/OJDd0Wo.gif" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="DUNIA ANAK", VTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
