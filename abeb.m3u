@@ -57,11 +57,10 @@ http://013tv.com:8080/live/F33848/cbd9779b/165095.ts
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #EXTINF:-1 tvg-id="Cineedge" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.visionplus.id/images/repository/699/498699-LOGO-m.png" group-title="PREMIUM MOVIE",CINEEDGE
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=40&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=40
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=40&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
@@ -78,30 +77,28 @@ http://013tv.com:8080/F33848/cbd9779b/165082
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AFIdCb.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="PREMIUM MOVIE",GALAXY
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=49&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=49
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=49&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NhY0Tux.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="PREMIUM MOVIE",GALAXY PREMIUM
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=48&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=48
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=48&type=drm&token=apistech
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Po2xRSi.png" group-title="PREMIUM MOVIE",HERSPHERE 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IMC.id@SD" group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/dk8zOgQ.png", INDONESIA MOVIE CHANNEL
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=50&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=50
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=50&type=drm&token=apistech
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -114,20 +111,18 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #EXTINF:-1 tvg-id="HITS" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://i.imgur.com/qHJhcyR.png" group-title="PREMIUM MOVIE",HITS
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
-#EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/xzNCpDB.png",HITS MOVIES
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="PREMIUM MOVIE" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/xzNCpDB.png",HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=42&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=42
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=42&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
 #EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://i.imgur.com/RWzxEKq.png" group-title="PREMIUM MOVIE",HITS NOW
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=68&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=68
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=68&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cw86YNt.png" group-title="PREMIUM MOVIE", HOLLYWOOD MOVIES
@@ -167,11 +162,10 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
 
 #EXTINF:-1 tvg-id="Cinemachi.uk@SD" group-title="PREMIUM MOVIE" tvg-logo="https://iili.io/BQovbuR.png",ORIGINALS
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=36&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=36
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=36&type=drm&token=apistech
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
 #EXTINF:-1 tvg-id="CinemachiXtra.uk@SD" tvg-logo="https://iili.io/BQo8TFe.png" group-title="PREMIUM MOVIE",UNIQUES HD 
@@ -179,15 +173,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=38&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=38
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 #EXTINF:-1 tvg-id="ROCKAction.sg@SD" tvg-name="ROCK Action" tvg-logo="https://i.imgur.com/B5CbAJo.png" group-title="PREMIUM MOVIE",ROCK ACTION
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=93&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=93
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=93&type=drm&token=apistech
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -220,20 +212,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/Qzabw3p.png",STUDIO UNIVERSAL
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="StudioUniversal" group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/Qzabw3p.png",STUDIO UNIVERSAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=54&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=54
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=54&type=drm&token=apistech
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 #EXTINF:-1 tvg-id="CinemachiMax.uk@SD" tvg-logo="https://i.imgur.com/f4Jx3Bt.png" group-title="PREMIUM MOVIE", SUPERRIX
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=39&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=39
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=39&type=drm&token=apistech
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
 #EXTINF:-1 tvg-id="Warner TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/yxt1qxh.png" group-title="PREMIUM MOVIE",WARNERBROS TV
@@ -244,7 +234,6 @@ http://202.150.161.212:5000/live/channel29/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=47&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=47
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ghnyv6s.png" group-title="PREMIUM MOVIE", ZEE CINEMA 
@@ -313,19 +302,17 @@ https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 ======================================== Premium Movie Asia ================================================================
 
 #EXTINF:-1 tvg-id="Celestial Movies Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/FmNU8Rf.png" group-title="PREMIUM MOVIE ASIA",CELESTIAL MOVIES
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=44&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=44
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=44&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #EXTINF:-1 tvg-id="Celestial Classic Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/O37mz39.png" group-title="PREMIUM MOVIE ASIA",CELESTIAL CLASSIC MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=45&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=45
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=45&type=drm&token=apistech
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -361,10 +348,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-name="K-Plus" tvg-logo="https://i.imgur.com/PQ87iLx.png" group-title="PREMIUM MOVIE ASIA", K-PLUS
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=Zjc0NjIwZGFmYThiMzk3ODZkOThhYzM3Zjc3MDI2OTg=&time=77777777777&device_id=xvfT1Unjt6MxKn7jiWIyvhNBDk0OyvwykMopXDXvVOdAgG1noA
+http://013tv.com:8080/F33848/cbd9779b/197969
+http://013tv.com:8080/live/F33848/cbd9779b/197969.ts
 
 #EXTINF:-1 tvg-id="" group-title="PREMIUM MOVIE ASIA" ch-number="136" tvg-logo="https://i.imgur.com/pCRXOSB.png",OH MY CERIA!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -387,22 +372,18 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 #EXTINF:-1 tvg-id="tvN Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="PREMIUM MOVIE ASIA" tvg-logo="https://i.imgur.com/VKvkwtA.png",TVN MOVIES
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=041
 #EXTINF:-1 tvg-id="Thrill" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/b2qgnFI.png" group-title="PREMIUM MOVIE ASIA",THRIIL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=41&type=drm&token=apistech
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
 #EXTINF:-1 tvg-id="VisionPrime.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/ltwTXYa.png" group-title="PREMIUM MOVIE ASIA", VISION PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=87&type=drm&token=alf-store
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=87
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=87&type=drm&token=apistech
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eu1gejM.png" group-title="PREMIUM MOVIE ASIA",ASIAN BOX
@@ -1651,6 +1632,3 @@ https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevo
 #EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/California_Music_Channel_Logo_%28cropped%29.png" group-title="MUSIK", CALIFORNIA MUSIC CHANNEL
 #EXTVLCOPT:network-caching=1000
 https://cmc-cmctv-cineverse.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-cineverse/CDN/playlist.m3u8
-
-
-
