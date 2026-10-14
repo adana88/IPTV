@@ -302,6 +302,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/
 #EXTINF:-1 channel-id="6368e15a51e9560007c592ed" tvg-id="6368e15a51e9560007c592ed" tvg-chno="75" tvg-name="OUTflix Movies" tvg-logo="https://i.imgur.com/C4gs8S4.png" group-title="PREMIUM MOVIE",OUTFLIX MOVIES
 https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/WIDBd9W.png",MOVIES NEWS
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-26da9f0c09ef5b1a204f368aa2cb3e30/dash/TW92aWVzIE5ld3M/manifest.mpd?signature=NWE4ZjY5MDBhNDc5NGFkOWIyM2FjZjU2ODcyN2FmYjU=&time=77777777777&device_id=SkQMkOd6dREaY8DLZG75-8V7YDoePMkQC-88H8Y7-bIcuRo_mA
+
 ======================================== Premium Movie Asia ================================================================
 
 #EXTINF:-1 tvg-id="Celestial Movies Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/FmNU8Rf.png" group-title="PREMIUM MOVIE ASIA",CELESTIAL MOVIES
@@ -318,14 +324,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 #KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=45&type=drm&token=apistech
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=204
 #EXTINF:-1 tvg-id="Drama.Channel.id" tvg-name="Drama Channel" tvg-logo="https://i.imgur.com/I71gvQS.png" group-title="PREMIUM MOVIE ASIA",DRAMA CHANNEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=204&type=drm&token=apistech
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zlwz9pr.png" group-title="PREMIUM MOVIE ASIA",DRAMA HEBAT
