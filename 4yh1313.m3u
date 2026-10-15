@@ -1013,7 +1013,7 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL"  tvg-logo="https://i.imgur.com/SbBiswp.png", TV9 NUSANTARA
+#EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL"  tvg-logo="https://i.imgur.com/SbBiswp.png", TV9 NU
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1159,10 +1159,10 @@ http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3nl132F.png" group-title="LOKAL INDONESIA CHANNEL",HANACARAKA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=89&type=drm&token=apistech
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
