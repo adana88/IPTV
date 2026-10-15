@@ -397,14 +397,10 @@ https://cdn3.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 
 ============================================ HBO =================================================
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="HBO" tvg-logo="https://i.imgur.com/xvV7KRR.png", CINEMAX
-http://013tv.com:8080/F33848/cbd9779b/197964
-https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NaaHoyTDhKcWJ3alY4TTMySkNRNDVvWjZKZFJLTUlSQ0pGdHFsQVRzZ2grMw
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Cinemax.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/yduJuvC.png", HBO
-http://013tv.com:8080/F33848/cbd9779b/306484
-http://013tv.com:8080/F33848/cbd9779b/197972
-https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NaZy9CTmYrVG13Z0pQVjFaRjhoMzNzRTdTbHhRazZWWEU2d2pYSUpzcCsxZw
-http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8
 
 #EXTINF:-1 tvg-id="HBO" group-title="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://i.imgur.com/yduJuvC.png",HBO 2
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
@@ -413,17 +409,13 @@ http://185.227.34.179:8080/hbo-2-hd/index.m3u8
 http://185.227.34.179:8080/hbo-3-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/HvcnS2a.png", HBO HITS
-http://013tv.com:8080/F33848/cbd9779b/306486
-http://013tv.com:8080/F33848/cbd9779b/196480
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34540
-https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NacGpZMlVuMXNjSkt6ZmVoTnh4MWR4MDltWXdTb0o2Q3FpcmZscXJTblhTNg
-http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOHits.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/v8gALcV.png", HBO FAMILY
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOFamily.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/59W34l9.png", HBO SIGNATURE
-http://013tv.com:8080/F33848/cbd9779b/306483
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOSignature.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/apiAKCQ.png" group-title="HBO", HBO COMEDY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
