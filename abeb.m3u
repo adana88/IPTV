@@ -206,11 +206,6 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pcm0oHB.png" group-title="PREMIUM MOVIE", SHEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://i.imgur.com/Mw42XaD.png" group-title="PREMIUM MOVIE",SHOSRTS TV ACTIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="StudioUniversal" group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/Qzabw3p.png",STUDIO UNIVERSAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -303,7 +298,7 @@ https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-26da9f0c09ef5b1a204f368aa2cb3e30/dash/TW92aWVzIE5ld3M/manifest.mpd?signature=NWE4ZjY5MDBhNDc5NGFkOWIyM2FjZjU2ODcyN2FmYjU=&time=77777777777&device_id=SkQMkOd6dREaY8DLZG75-8V7YDoePMkQC-88H8Y7-bIcuRo_mA
+https://cdnjktcyber05.transvision.co.id/riutx01-036eef823712f3523b3b725952d97201/dash/TW92aWVzIE5ld3M/manifest.mpd?signature=NWE4ZjY5MDBhNDc5NGFkOWIyM2FjZjU2ODcyN2FmYjU=&time=77777777777&device_id=SkQMkOd6dREaY8DLZG75-8V7YDoePMkQC-88H8Y7-bIcuRo_mA
 
 ======================================== Premium Movie Asia ================================================================
 
@@ -351,8 +346,12 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-name="K-Plus" tvg-logo="https://i.imgur.com/PQ87iLx.png" group-title="PREMIUM MOVIE ASIA", K-PLUS
-http://013tv.com:8080/F33848/cbd9779b/197969
-http://013tv.com:8080/live/F33848/cbd9779b/197969.ts
+#http://013tv.com:8080/F33848/cbd9779b/197969
+#http://013tv.com:8080/live/F33848/cbd9779b/197969.ts
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-036eef823712f3523b3b725952d97201/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=Zjc0NjIwZGFmYThiMzk3ODZkOThhYzM3Zjc3MDI2OTg=&time=77777777777&device_id=xvfT1Unjt6MxKn7jiWIyvhNBDk0OyvwykMopXDXvVOdAgG1noA
 
 #EXTINF:-1 tvg-id="" group-title="PREMIUM MOVIE ASIA" ch-number="136" tvg-logo="https://i.imgur.com/pCRXOSB.png",OH MY CERIA!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -423,10 +422,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v
 ============================================ NASIONAL CHANNEL =================================================
 
 #EXTINF:-1 tvg-id="ANTV tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/DDx5PSN.png" group-title="NASIONAL CHANNEL",ANTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=10&type=drm&token=apistech
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/zKaiiyK.png" group-title="NASIONAL CHANNEL",ASTHA TV
 https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8
@@ -443,7 +443,7 @@ https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
 
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/6M52Ied.png" group-title="NASIONAL CHANNEL",CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.visionplus.id/images/repository/382/600382-LOGO-m.png" group-title="NASIONAL CHANNEL",CNBC INDONESIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -475,9 +475,11 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h216/S1/mnf.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/FG16QEP.png" group-title="NASIONAL CHANNEL",GLOBAL TV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/gtv/gtv-sdi.m3u8?auth_key=1791960959-a85b4694aff26a565f155bb3d6439c44-0-ea6a895351f2b8f8e49a0370179333ba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=3&type=drm&token=apistech
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-id="TIC" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="NASIONAL CHANNEL", THE INDONESIA CHANNEL
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
@@ -494,9 +496,8 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
 
 #EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://i.imgur.com/evLvHTK.gif" group-title="NASIONAL CHANNEL", INEWS
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/web/inews/inews-sdi.m3u8?auth_key=1791960959-8fb5cfe70a9687f980247066a1c77ce6-0-e3c0ee27269975581ca9ab1d64becca5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Inews.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -524,9 +525,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/6LvcaeX.png" group-title="NASIONAL CHANNEL",MNCTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=2&type=drm&token=apistech
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://i.imgur.com/o71aW3P.png" group-title="NASIONAL CHANNEL", MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -544,9 +547,11 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/KLxxuQk.png" group-title="NASIONAL CHANNEL", RCTI
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm&token=apistech
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/3Dv4WI3.png",RTV
@@ -973,13 +978,11 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4zGdRn.png" group-title="RELIGI | ISLAM CHANNEL",MUSLIM TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=137&type=drm&token=apistech
+https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
 
 #EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/INkLLeS.png",MQTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -999,12 +1002,12 @@ https://rodjatv.com/rodjatv/live.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZL55X2Y.png" group-title="RELIGI | ISLAM CHANNEL",TV 10
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL"  tvg-logo="https://i.imgur.com/SbBiswp.png", TV9 NUSANTARA
+#EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL"  tvg-logo="https://i.imgur.com/SbBiswp.png", TV9 NU
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1014,7 +1017,11 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hjlZddv.png" group-title="RELIGI | ISLAM CHANNEL", MUHAMMADIYAH TV
-https://e.siar.us/live/tvmu.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=30&type=drm&token=apistech
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
 #EXTINF:-1 tvg-id="insantv" tvg-name="Insan TV" group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/Jc7vUQk.png",INSAN TV
 https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
@@ -1080,18 +1087,19 @@ https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindones
 #EXTINF:-1 tvg-id=""  tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/XtyOEWh.png" group-title="RELIGI | KRISTEN CHANNEL",CATHOLIC TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=08e5cf90e8c04a7fa90f5c126768b239:b9406a99b9ea4b07149ecc582faf2613
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="LIFE - [Channel 91].id"  tvg-id="LIFE.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/TeIIjgW.png" group-title="RELIGI | KRISTEN CHANNEL",LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=138&type=drm&token=apistech
 https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33b71e0fd4e74614b55c5e4399e2eb9c:f5bae0f7ea037e59a8b2a7851954ecbe
 #EXTINF:-1 tvg-id="EWTN.id" tvg-name="EWTN.id" tvg-logo="https://i.imgur.com/25irPti.gif" group-title="RELIGI | KRISTEN CHANNEL",EWTN
-https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mediampd/EWTN.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=154&type=drm&token=apistech
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=848dfd2cd72b42baad634ea61a3b0285:42e281d95bdd33b0f0f206a9ff393011
@@ -1106,17 +1114,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelH
 #EXTINF:-1 tvg-id="Kairos" tvg-name="Kairos" tvg-logo="https://i.imgur.com/aWD0LRe.png" group-title="RELIGI | KRISTEN CHANNEL",KAIROS
 https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mediampd/Kairos.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Reformed 21.id" tvg-name="Reformed 21.id" tvg-logo="https://i.imgur.com/LCdJ3ze.png" group-title="RELIGI | KRISTEN CHANNEL",REFORMED 21
-https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=139&type=drm&token=apistech
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/index.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad871d41c5ce48e68d387a52a0d30066:0fd2a3a055367f7f4ac2920b5d027edc
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TBN.id" tvg-name="TBN.id" tvg-logo="https://i.imgur.com/F92Uqw8.png" group-title="RELIGI | KRISTEN CHANNEL",TBN ASIA
-https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mediampd/TBNAsia.mpd
+https://op-flashcon-digdayahd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=lite&chname=TBN
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1150,10 +1158,10 @@ http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3nl132F.png" group-title="LOKAL INDONESIA CHANNEL",HANACARAKA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=89&type=drm&token=apistech
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1213,11 +1221,11 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-url=" tvg-logo="https://lingkar.tv//assets/img/logo-lingkartv.png" group-title="LOKAL INDONESIA CHANNEL",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="LOKAL INDONESIA CHANNEL" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/250px-BaliTV_2014.png",BALI TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=26&type=drm&token=apistech
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTINF:-1 group-title="LOKAL INDONESIA CHANNEL" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/6xfC9x9.png",JITV JOGJA
@@ -1500,6 +1508,25 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fd
 #EXTINF:-1 tvg-id="plex.tv.MotoGP.Channel.plex" tvg-name="" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/MotoGP_logo_%282024%29.svg/330px-MotoGP_logo_%282024%29.svg.png" group-title="OLAHRAGA",MOTOGP CHANNEL
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
+#EXTINF:-1 tvg-id="121" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="OLAHRAGA",FIGHT SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=121&type=drm&token=apistech
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
+#EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png" group-title="OLAHRAGA",V+ SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=1011&type=drm&token=apistech
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/f224a4945f2f48e892fb896645a9af6b/index.mpd
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/e5009dc7-2cae-4c8a-aa38-36bc224f7b8b.jpg",GOLF PLUS ID
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-036eef823712f3523b3b725952d97201/dash/R29sZi1DaGFubmVs/manifest.mpd?
 
 <======================================================================= MUSIK ===================================================================================>
 
@@ -1594,6 +1621,7 @@ https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevo
 #EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/California_Music_Channel_Logo_%28cropped%29.png" group-title="MUSIK", CALIFORNIA MUSIC CHANNEL
 #EXTVLCOPT:network-caching=1000
 https://cmc-cmctv-cineverse.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-cineverse/CDN/playlist.m3u8
+
 
 
 
