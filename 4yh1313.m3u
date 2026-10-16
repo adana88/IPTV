@@ -209,11 +209,6 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pcm0oHB.png" group-title="PREMIUM MOVIE", SHEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://i.imgur.com/Mw42XaD.png" group-title="PREMIUM MOVIE",SHOSRTS TV ACTIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="StudioUniversal" group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/Qzabw3p.png",STUDIO UNIVERSAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
