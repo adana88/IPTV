@@ -1131,7 +1131,7 @@ http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=89&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=89
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1195,7 +1195,7 @@ https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=26&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=26
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTINF:-1 group-title="LOKAL INDONESIA CHANNEL" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/6xfC9x9.png",JITV JOGJA
