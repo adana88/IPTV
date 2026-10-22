@@ -770,16 +770,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/Vwt1enW.png" group-title="DUNIA ANAK" tvg-id="Cartoon Network", CARTOON NETWORK
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=056
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Awc8zFb.png" group-title="DUNIA ANAK" tvg-id="DUNIA ANAK.id" tvg-name="DUNIA ANAK TV", KIDS TV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJpnNjb.png" group-title="DUNIA ANAK", NICK JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -806,7 +796,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/in
 
 #EXTINF:-1 group-title="DUNIA ANAK" tvg-logo="https://i.imgur.com/mxkPq16.png",DUNIA ANAK
 
-#EXTINF:-1 tvg-id="56" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png" group-title="DUNIA ANAK",KIDS TV
+#EXTINF:-1 tvg-id="56" tvg-logo="https://i.imgur.com/Awc8zFb.png" group-title="DUNIA ANAK",KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -856,10 +846,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #https://raw.githubusercontent.com/Cutsiffa/Kid/main/Famjr.m3u8
 
 #EXTINF:-1 tvg-id="ytv.ca" tvg-logo="https://i.imgur.com/aZMWTDB.png" group-title="DUNIA ANAK",YTV
-
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="DUNIA ANAK",VTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-id="treehouse.ca" tvg-logo="https://i.imgur.com/ngjvfQc.png" group-title="DUNIA ANAK",TREEHOUSE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
