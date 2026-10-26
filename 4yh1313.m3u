@@ -352,14 +352,12 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=73&type=drm&token=apistech
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
-#EXTINF:-1 tvg-id="tvN" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/J49T8WU.png" group-title="PREMIUM MOVIE ASIA",TVN-2
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/dHZOQ2hhbm5lbA/manifest.mpd?signature=MDY4YmM5YzViZDIyNzQ1YTFiYWQxZmI4MTk3MGNhNzc=&time=77777777777&device_id=31hTlAswCVUSCphdU80IuVNFq9svW9ztrVLGuk2Hi8AXg_zbRw
-
 #EXTINF:-1 tvg-id="tvN Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="PREMIUM MOVIE ASIA" tvg-logo="https://i.imgur.com/VKvkwtA.png",TVN MOVIES
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46&type=drm&token=KITKATTV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTINF:-1 tvg-id="Thrill" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/b2qgnFI.png" group-title="PREMIUM MOVIE ASIA",THRIIL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -621,11 +619,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=102
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
-#EXTVLCOPT:http-origin=http://www.biznetvideo.net
 #EXTINF:-1 tvg-id="Biznet Adventure" tvg-name="Biznet Adventure" tvg-logo="https://i.imgur.com/QkID6z4.png" group-title="PENGETAHUAN",BIZNET ADVENTURE
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
 
 #EXTINF:-1 tvg-id="CGTNDocumentary.id" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/e9R8H1H.png" group-title="PENGETAHUAN",CGTN DOCUMENTARY
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -722,7 +716,7 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-id="HGTV" tvg-logo="https://i.imgur.com/Bzj8lJI.png" group-title="PENGETAHUAN",HGTV 
-http://013tv.com:8080/live/F33848/cbd9779b/298535.ts
+https://i.mjh.nz/.r/sky-hgtv.m3u8
 
 #EXTINF:-1 tvg-id="CURIOSITY" tvg-name="Curiosity Now" tvg-logo="https://i.imgur.com/ZBZaej8.png" group-title="PENGETAHUAN",CURIOSITY
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1074,7 +1068,7 @@ http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=89
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=89&type=drm&token=KITKATTV
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
