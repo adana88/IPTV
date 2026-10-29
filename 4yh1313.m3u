@@ -38,13 +38,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 #EXTINF:-1 tvg-id="Bioskop.Indonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="PREMIUM MOVIE",BIOSKOP INDONESIA
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
-###KODIPROP:inputstreamaddon=inputstream.adaptive
-###KODIPROP:inputstream.adaptive.manifest_type=dash
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://i.imgur.com/OLCR6VY.png" group-title="PREMIUM MOVIE",FLIK
-https://filex.me:8443/akkvdGtMUWkvVnMvaWx3V2hXa2NaZy9CTmYrVG13Z0pQVjFaRjhoMzNzR28yNjAzdkpKZFBZTDFKUUxvdVNMWg
-http://013tv.com:8080/live/F33848/cbd9779b/165095.ts
 
 #EXTINF:-1 tvg-id="BuddyStar.id" tvg-name="Buddy Star" tvg-logo="https://i.imgur.com/mWFBfmP.png" group-title="PREMIUM MOVIE",BUDDY STAR
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
@@ -288,10 +282,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/
 https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/WIDBd9W.png",MOVIES NEWS
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-036eef823712f3523b3b725952d97201/dash/TW92aWVzIE5ld3M/manifest.mpd?signature=NWE4ZjY5MDBhNDc5NGFkOWIyM2FjZjU2ODcyN2FmYjU=&time=77777777777&device_id=SkQMkOd6dREaY8DLZG75-8V7YDoePMkQC-88H8Y7-bIcuRo_mA
 
 ======================================== Premium Movie Asia ================================================================
 
@@ -1206,6 +1196,9 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="timor.tv" tvg-logo="https://i.imgur.com/YmjUu7c.png" group-title="LOKAL INDONESIA CHANNEL",TIMOR TV
 http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="LOKAL INDONESIA CHANNEL",BALIKPAPAN TV
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 
 ===================================================== METRO GOLDWYN MAYER =============================================================
 
