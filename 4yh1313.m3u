@@ -1200,6 +1200,9 @@ http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="LOKAL INDONESIA CHANNEL",BALIKPAPAN TV
 http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://i.imgur.com/ETykpnU.png" group-title="LOKAL INDONESIA CHANNEL",JTV
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+
 ===================================================== METRO GOLDWYN MAYER =============================================================
 
 #EXTINF:-1  tvg-id="MGM+.HD.us2" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="METRO GOLDWYN MAYER",MGM+
