@@ -623,7 +623,7 @@ https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg
 
 #EXTINF:-1 tvg-id="DensKnowledge.id@SD" group-title="PENGETAHUAN" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Knowledge.png",DENS KNOWLEDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https:\\op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge
+https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge
 
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODCGTNDISCOVERINGCHINAY2025M/AVODCGTNDISCOVERINGCHINAY2025M-title-logo-en.png" group-title="PENGETAHUAN",DISCOVERING CHINA
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
