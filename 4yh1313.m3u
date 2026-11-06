@@ -48,11 +48,9 @@ http://202.150.161.212:5000/live/channel35/playlist.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #EXTINF:-1 tvg-id="Cineedge" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.visionplus.id/images/repository/699/498699-LOGO-m.png" group-title="PREMIUM MOVIE",CINEEDGE
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=40
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+https://proxy-v.rctiplus.id/live/web/cineedge/index.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream=ffmpegdirect
@@ -94,9 +92,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #EXTINF:-1 tvg-id="HITS" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://i.imgur.com/qHJhcyR.png" group-title="PREMIUM MOVIE",HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=77
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+https://proxy-v.rctiplus.id/live/web/hits/index.m3u8
 
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/xzNCpDB.png",HITS MOVIES
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
@@ -175,9 +171,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/905dUAu.png" group-title="PREMIUM MOVIE",ROCK ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=92
-https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 
 #EXTINF:-1 tvg-url="" tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="https://i.imgur.com/jaf1SRX.png" group-title="PREMIUM MOVIE",ROCK XSTREAM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -214,9 +208,7 @@ http://202.150.161.212:5000/live/channel29/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeBioskop.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/F1lw8hz.png", ZEE BIOSKOP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=47
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+https://proxy-v.rctiplus.id/live/web/zeebioskop/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ghnyv6s.png" group-title="PREMIUM MOVIE", ZEE CINEMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -286,18 +278,14 @@ https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 ======================================== Premium Movie Asia ================================================================
 
 #EXTINF:-1 tvg-id="Celestial Movies Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/FmNU8Rf.png" group-title="PREMIUM MOVIE ASIA",CELESTIAL MOVIES
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=44
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+https://proxy-v.rctiplus.id/live/web/celestialclassic/index.m3u8
 
 #EXTINF:-1 tvg-id="Celestial Classic Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/O37mz39.png" group-title="PREMIUM MOVIE ASIA",CELESTIAL CLASSIC MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=45
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8
 
 #EXTINF:-1 tvg-id="Drama.Channel.id" tvg-name="Drama Channel" tvg-logo="https://i.imgur.com/I71gvQS.png" group-title="PREMIUM MOVIE ASIA",DRAMA CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -321,10 +309,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 group-title="PREMIUM MOVIE ASIA" tvg-id="KIX" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/kLCJ47B.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=75
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=75
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+https://proxy-v.rctiplus.id/live/web/kix/index.m3u8
 
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-name="K-Plus" tvg-logo="https://i.imgur.com/PQ87iLx.png" group-title="PREMIUM MOVIE ASIA", K-PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1050,11 +1035,9 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3nl132F.png" group-title="LOKAL INDONESIA CHANNEL",HANACARAKA TV
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=89&type=drm&token=KITKATTV
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -1108,7 +1091,9 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="LOKAL INDONESIA CHANNEL" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/250px-BaliTV_2014.png",BALI TV 
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/balitv/index.m3u8
 
 #EXTINF:-1 group-title="LOKAL INDONESIA CHANNEL" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/6xfC9x9.png",JITV JOGJA
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
@@ -1433,9 +1418,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.imgur.com/poFH3GX.png", MUSIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=142&type=drm&token=KITKATTV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+https://proxy-v.rctiplus.id/live/web/musictv/index.m3u8
 
 #EXTINF:-1 tvg-id="Prambors.id" tvg-name="Prambors" tvg-logo="https://i.imgur.com/40sTRHh.png" group-title="MUSIK", PRAMBORS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
