@@ -612,11 +612,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8?app_type=web&userid=li
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-url="https://i.imgur.com/EtojTwF.png" group-title="PENGETAHUAN",HISTORY
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=104
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/history/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hA58ewv.png" group-title="PENGETAHUAN", LOVE NATURE
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
@@ -951,7 +949,7 @@ https://flv.intechmedia.net/live/ch33.m3u8|user-agent=Mozilla/5.0
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/OObz9u3.png" group-title="RELIGI | ISLAM CHANNEL",SURAU TV   
 https://flv.intechmedia.net/live/ch3.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="AshiilTV.id@SD" group-title="RELIGI | ISLAM CHANNEL"tvg-logo="https://i.imgur.com/TntROwW.png",ASHIIL TV
+#EXTINF:-1 tvg-id="AshiilTV.id@SD" group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/TntROwW.png",ASHIIL TV
 #EXTVLCOPT:http-referrer=https://ashiil.tv/
 https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 
