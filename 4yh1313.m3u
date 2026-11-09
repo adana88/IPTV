@@ -1449,9 +1449,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://proxy-v.rctiplus.id/live/web/musictv/index.m3u8
 
 #EXTINF:-1 tvg-id="Prambors.id" tvg-name="Prambors" tvg-logo="https://i.imgur.com/40sTRHh.png" group-title="MUSIK", PRAMBORS TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97ff88352c574038b70e09642a90feec:66c062a920329c52fb446fac728c90d7
-https://indihuy.streamized.net/atm/mpd-vo/pramborstv/manifest.mpd
 
 #EXTINF:-1 tvg-id="MusikIndonesia.id" tvg-logo="https://i.imgur.com/2GieoPw.png" group-title="MUSIK", MUSIK INDONESIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
