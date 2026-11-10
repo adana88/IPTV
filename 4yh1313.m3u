@@ -47,13 +47,9 @@ https://proxy-v.rctiplus.id/live/web/buddystars/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/cineedge/index.m3u8
 
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream=ffmpegdirect
-#KODIPROP:inputstream.ffmpeg_options=-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5
-#KODIPROP:network-caching=2000
 #EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png" group-title="PREMIUM MOVIE",CINEMAWORLD
-###http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179210
-http://013tv.com:8080/F33848/cbd9779b/165082
+http://198.16.106.58:8278/cinemaworld_twn/playlist.m3u8
+http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/u647WPC.png", CITRA BIOSKOP 
 
