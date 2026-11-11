@@ -337,10 +337,10 @@ http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
 http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
 
-#EXTINF:-1 tvg-id="HBO" group-title="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://i.imgur.com/yduJuvC.png",HBO 2
+#EXTINF:-1 tvg-id="HBO" group-title="HBO" group-logo="" tvg-logo="https://i.imgur.com/yduJuvC.png",HBO 2
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" group-title="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://i.imgur.com/yduJuvC.png",HBO 3
+#EXTINF:-1 tvg-id="HBO" group-title="HBO" tvg-logo="https://i.imgur.com/yduJuvC.png",HBO 3
 http://185.227.34.179:8080/hbo-3-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/apiAKCQ.png" group-title="HBO", HBO COMEDY
@@ -354,10 +354,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v
 #EXTINF:-1 tvg-id="ANTV tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/DDx5PSN.png" group-title="NASIONAL CHANNEL",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10&type=drm&token=KITKATTV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/zKaiiyK.png" group-title="NASIONAL CHANNEL",ASTHA TV
 https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8
