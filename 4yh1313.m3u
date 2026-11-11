@@ -316,42 +316,26 @@ https://proxy-v.rctiplus.id/live/web/visionprime/index.m3u8
 https://cdn3.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 
 ============================================ HBO =================================================
+
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="HBO" tvg-logo="https://i.imgur.com/xvV7KRR.png", CINEMAX
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ 
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/yduJuvC.png", HBO
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
 
 #EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/HvcnS2a.png", HBO HITS
+http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/v8gALcV.png", HBO FAMILY
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/59W34l9.png", HBO SIGNATURE
+http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
----------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/yduJuvC.png", HBO
-#http://202.150.165.66:8088/play/100-HBO/index.m3u8
-#http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
-
-#EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/HvcnS2a.png", HBO HITS
-#http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
-#http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
-
-#EXTINF:-1 tvg-id="HBO Family" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/v8gALcV.png", HBO FAMILY
-#http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
-#http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
-
-#EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO" tvg-logo="https://i.imgur.com/59W34l9.png", HBO SIGNATURE
-#http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
-#http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
-
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="HBO" tvg-logo="https://i.imgur.com/xvV7KRR.png", CINEMAX
-#http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
-#http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
-----------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="HBO" group-title="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://i.imgur.com/yduJuvC.png",HBO 2
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
