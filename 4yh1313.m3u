@@ -33,7 +33,6 @@ https://bit.ly/3DVMI2j
 https://proxy-v.rctiplus.id/live/web/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="Bioskop.Indonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="PREMIUM MOVIE",BIOSKOP INDONESIA
-http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://i.imgur.com/OLCR6VY.png" group-title="PREMIUM MOVIE",FLIK
 
@@ -48,8 +47,6 @@ https://proxy-v.rctiplus.id/live/web/buddystars/index.m3u8
 https://proxy-v.rctiplus.id/live/web/cineedge/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Cinema_World.png" group-title="PREMIUM MOVIE",CINEMAWORLD
-http://198.16.106.58:8278/cinemaworld_twn/playlist.m3u8
-http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/u647WPC.png", CITRA BIOSKOP 
 
@@ -70,11 +67,6 @@ https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IMC.id@SD" group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/dk8zOgQ.png", INDONESIA MOVIE CHANNEL
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=50
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTINF:-1 tvg-id="HITS" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://i.imgur.com/qHJhcyR.png" group-title="PREMIUM MOVIE",HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
