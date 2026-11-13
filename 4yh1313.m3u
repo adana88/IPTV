@@ -848,7 +848,6 @@ https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
 https://flv.intechmedia.net/live/ch4.m3u8|User-Agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gTiyYD1.png" group-title="RELIGI | ISLAM CHANNEL",AL JAWADAIN TV
-https://ammedia.siar.us/ammedia/live/playlist.m3u8|User-Agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8jcqS6.png" group-title="RELIGI | ISLAM CHANNEL",AL BAHJAH TV
 http://202.150.161.117:8000/play/AlBahjahTV|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
