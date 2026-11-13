@@ -814,7 +814,8 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jpEi1G9.png" group-title="RELIGI | ISLAM CHANNEL", RODJA TV
-https://rodjatv.com/rodjatv/live.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/znZBJcB.png" group-title="RELIGI | ISLAM CHANNEL", MADINAH TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
@@ -851,7 +852,6 @@ https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
 https://flv.intechmedia.net/live/ch4.m3u8|User-Agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gTiyYD1.png" group-title="RELIGI | ISLAM CHANNEL",AL JAWADAIN TV
-https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 
 https://ammedia.siar.us/ammedia/live/playlist.m3u8|User-Agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8jcqS6.png" group-title="RELIGI | ISLAM CHANNEL",AL BAHJAH TV
@@ -861,7 +861,6 @@ http://202.150.161.117:8000/play/AlBahjahTV|User-Agent=Mozilla/5.0 (Windows NT 1
 https://flv.intechmedia.net/live/ch9.m3u8|User-Agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eiie4Eb.png" group-title="RELIGI | ISLAM CHANNEL",MEDS TV
-https://flv.intechmedia.net/live/ch23.m3u8|User-Agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dqg7rme.png" group-title="RELIGI | ISLAM CHANNEL",MUADZ TV
 https://flv.intechmedia.net/live/ch5.m3u8|User-Agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
@@ -895,6 +894,10 @@ https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQFp3HiflczPJ-jZ0ruzeOP1bNuJJgoFHehHOdbg4zA&s" group-title="RELIGI | ISLAM CHANNEL", NABAWI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://202.150.161.117:8000/play/NabawiTV
+
+#EXTINF:-2 group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/alfurqantv.png",ALFURQON TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch24.m3u8
 
 
 ===================================================== RELIGI | KRISTEN CHANNEL ========================================================
