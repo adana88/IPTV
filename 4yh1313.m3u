@@ -474,7 +474,7 @@ https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDD817V.png" group-title="NASIONAL CHANNEL",RRI NET
-https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8
+http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1 tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/OnPL49C.png",SCTV
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
