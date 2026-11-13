@@ -891,7 +891,7 @@ https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://202.150.161.117:8000/play/NabawiTV
 
-#EXTINF:-2 group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/alfurqantv.png",ALFURQON TV
+#EXTINF:-2 group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/ZhmsbCJ.png",ALFURQON TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch24.m3u8
 
