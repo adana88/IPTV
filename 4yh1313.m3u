@@ -1440,6 +1440,14 @@ https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevo
 #EXTVLCOPT:network-caching=1000
 https://cmc-cmctv-cineverse.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-cineverse/CDN/playlist.m3u8
 
+#EXTINF:-1 cuid="1262" tvg-chno="1260" tvg-name="XITE Hits" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="MUSIK",XITE
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 cuid="1278" tvg-chno="1276" tvg-name="Deluxe Music 🇩🇪" tvg-id="DeluxeMusic.de" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DeluxeMusic.webp" group-title="Musik",DELUXE MUSIC
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="Musik",IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
 
