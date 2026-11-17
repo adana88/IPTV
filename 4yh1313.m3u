@@ -756,10 +756,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 ===================================================== RELIGI | ISLAM CHANNEL =========================================================
 
-#EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/Dqg7rme.png",MUADZ TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SZMTC HG680_FJ Build/QTT2.200720.001) IPTV/6.0.10
-https://flv.intechmedia.net/live/ch5.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/syZXY16.png" group-title="RELIGI | ISLAM CHANNEL", ALWAFA TARIM TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
