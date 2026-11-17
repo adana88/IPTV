@@ -1409,7 +1409,6 @@ https://mic.siar.us/mic/live/playlist.m3u8
 https://stream.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/3sb6zpM.png" group-title="MUSIK", VEVO
-https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/California_Music_Channel_Logo_%28cropped%29.png" group-title="MUSIK", CALIFORNIA MUSIC CHANNEL
 #EXTVLCOPT:network-caching=1000
@@ -1423,6 +1422,9 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m
 
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.imgur.com/qMX2LFs.png" group-title="MUSIK",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="MUSIK", XITE ROCK X METAL
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 
 
 
