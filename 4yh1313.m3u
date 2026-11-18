@@ -403,9 +403,9 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://bintangstreaming.my.id/000/vip.php/.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://i.imgur.com/evLvHTK.gif" group-title="NASIONAL CHANNEL", INEWS
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 
 #EXTINF:-1 tvg-id="JakTV.id" tvg-name="JAKTV" tvg-logo="https://i.imgur.com/ofW8i2I.png" group-title="NASIONAL CHANNEL", JAKTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
