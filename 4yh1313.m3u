@@ -248,11 +248,6 @@ https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8
 https://proxy-v.rctiplus.id/live/web/celestialclassic/index.m3u8
 
 #EXTINF:-1 tvg-id="Drama.Channel.id" tvg-name="Drama Channel" tvg-logo="https://i.imgur.com/I71gvQS.png" group-title="PREMIUM MOVIE ASIA",DRAMA CHANNEL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=204&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zlwz9pr.png" group-title="PREMIUM MOVIE ASIA",DRAMA HEBAT
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
@@ -388,8 +383,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/FG16QEP.png" group-title="NASIONAL CHANNEL",GLOBAL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://linier-gtv.rctiplus.id/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="TIC" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="NASIONAL CHANNEL", THE INDONESIA CHANNEL
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
@@ -399,8 +394,10 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/tOUF45I.png",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://bintangstreaming.my.id/000/vip.php/.mpd?id=205&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 
 #EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://i.imgur.com/evLvHTK.gif" group-title="NASIONAL CHANNEL", INEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -437,8 +434,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/6LvcaeX.png" group-title="NASIONAL CHANNEL",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/117916
+https://linier-mnctv.rctiplus.id/mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://i.imgur.com/o71aW3P.png" group-title="NASIONAL CHANNEL", MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -456,9 +453,13 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/KLxxuQk.png" group-title="NASIONAL CHANNEL", RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/rcti.m3u8
+##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+##https://allcutv.rctiplus.id/rcti2023.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/3Dv4WI3.png",RTV
@@ -467,9 +468,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDD817V.png" group-title="NASIONAL CHANNEL",RRI NET
 
 #EXTINF:-1 tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="NASIONAL CHANNEL" tvg-logo="https://i.imgur.com/OnPL49C.png",SCTV
-#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-#http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302301.m3u8
-#https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
