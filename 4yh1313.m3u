@@ -804,11 +804,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hjlZddv.png" group-title="RELIGI | ISLAM CHANNEL", MUHAMMADIYAH TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=30&type=drm&token=apistech
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
+https://e.siar.us/live/tvmu.m3u8
 
 #EXTINF:-1 tvg-id="insantv" tvg-name="Insan TV" group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/Jc7vUQk.png",INSAN TV
 https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
