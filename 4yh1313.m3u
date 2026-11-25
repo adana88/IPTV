@@ -475,10 +475,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #EXTINF:-1 tvg-name="Sin Po TV" tvg-id="SinPOTV.id" tvg-logo="https://i.imgur.com/dNXEJc6.png" group-title="NASIONAL CHANNEL", SINPO TV
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://vidio123.mikrofast.web.id/vidio/19046/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/P4NIO71.png" group-title="NASIONAL CHANNEL",TRANS 7
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
@@ -663,7 +664,7 @@ https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/index-f2-v1-a1.
 #EXTINF:-1 group-title="DUNIA ANAK" tvg-logo="https://i.imgur.com/26rlUsN.png",ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/animax/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/Vwt1enW.png" group-title="DUNIA ANAK" tvg-id="Cartoon Network", CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -673,12 +674,12 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJpnNjb.png" group-title="DUNIA ANAK", NICK JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/nickjr/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/nickjr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/31JOFxG.png" group-title="DUNIA ANAK" tvg-id="6236" tvg-name="CBeebies (HD)", CBEEBIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/cbeebies/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/cbeebies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LbazT7s.png" group-title="DUNIA ANAK", BABY SHARK 
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -686,7 +687,7 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dreamworks" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-name="Dreamworks" tvg-logo="https://i.imgur.com/Ef7hKIA.gif" group-title="DUNIA ANAK", DREAMWORKS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/dreamworks/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/dreamworks/index.m3u8
 
 #EXTINF:-1 group-title="DUNIA ANAK" tvg-logo="https://i.imgur.com/mxkPq16.png",DUNIA ANAK
 
@@ -698,8 +699,9 @@ https://proxy-v.rctiplus.id/live/web/hapykids/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LsoxyAR.png" group-title="DUNIA ANAK",NICKELODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=64
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=64&type=drm&token=KITKATTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a0wLTFg.png" group-title="DUNIA ANAK", TRT COCUK
@@ -728,7 +730,7 @@ https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bKawLaM.png" group-title="DUNIA ANAK",MOONBUG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/moonbug/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/moonbug/index.m3u8
 
 #EXTINF:-1 tvg-id="familyjr.ca" tvg-logo="https://i.imgur.com/tLlZjPZ.png" group-title="DUNIA ANAK",FAMILY JR HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
@@ -770,7 +772,7 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4zGdRn.png" group-title="RELIGI | ISLAM CHANNEL",MUSLIM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/muslimtv/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/muslimtv/index.m3u8
 
 #EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/INkLLeS.png",MQTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -779,7 +781,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 group-title="RELIGI | ISLAM CHANNEL" tvg-logo="https://i.imgur.com/Y9sKXJn.png", MAKKAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/alquran/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/alquran/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jpEi1G9.png" group-title="RELIGI | ISLAM CHANNEL", RODJA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -948,7 +950,7 @@ http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3nl132F.png" group-title="LOKAL INDONESIA CHANNEL",HANACARAKA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/hanacaraka/index.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -1003,7 +1005,10 @@ https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="LOKAL INDONESIA CHANNEL" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/250px-BaliTV_2014.png",BALI TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/balitv/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=26&type=drm&token=KITKATTV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTINF:-1 group-title="LOKAL INDONESIA CHANNEL" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/6xfC9x9.png",JITV JOGJA
 https://jitv.jogjaprov.go.id/tv/stream/chunklist_w448928976.m3u8
