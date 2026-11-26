@@ -157,7 +157,6 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pcm0oHB.png" group-title="PREMIUM MOVIE", SHEMAROO BOLLYWOOD
 
-
 #EXTINF:-1 tvg-id="StudioUniversal" group-title="PREMIUM MOVIE" tvg-logo="https://i.imgur.com/Qzabw3p.png",STUDIO UNIVERSAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
